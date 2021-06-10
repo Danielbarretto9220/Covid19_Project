@@ -1,0 +1,17 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1.0,Bengaluru Urban,940819.0,70.0,F,SARI,"Cough, Breathlessness",HTN,18-01-2021,18-01-2021,Designated hospital
+2.0,Kalaburagi,947447.0,81.0,M,SARI,"Fever, Cough, Breathlessness",-,19-01-2021,19-01-2021,Private hospital
+3.0,Tumakuru,948034.0,80.0,F,SARI,"Fever, Cough, Breathlessness","HTN, COPD, IHD",20-01-2021,20-01-2021,Designated hospital
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info

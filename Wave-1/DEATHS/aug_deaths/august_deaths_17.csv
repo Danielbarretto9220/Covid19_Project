@@ -1,0 +1,116 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,32008,52,M,SARI,Fever,"DM, HTN",07-07-2020,13-07-2020,-
+2,Bengaluru Urban,32374,52,F,ILI,"Fever, Cough","DM, HTN",07-07-2020,16-07-2020,-
+3,Bengaluru Urban,32407,61,M,ILI,"Fever, Cough","DM, HTN",07-07-2020,31-07-2020,-
+4,Bengaluru Urban,32459,77,M,ILI,Fever,"DM, HTN",10-07-2020,17-07-2020,-
+5,Bengaluru Urban,32961,85,F,ILI,Cough,"DM, HTN",08-07-2020,12-07-2020,-
+6,Bengaluru Urban,33058,44,F,ILI,"Fever, Cough",DM,07-07-2020,08-07-2020,-
+7,Bengaluru Urban,33258,59,M,SARI,Breathlessness,IHD,27-07-2020,05-08-2020,-
+8,Bengaluru Urban,33597,57,M,Contact under tracing,"Fever, Breathlessness",-,10-07-2020,13-07-2020,-
+9,Bengaluru Urban,34041,48,M,Contact under tracing,Breathlessness,DM,09-07-2020,10-07-2020,-
+10,Bengaluru Urban,34473,48,M,Contact under tracing,Breathlessness,IHD,08-07-2020,11-07-2020,-
+11,Bengaluru Urban,45970,74,F,Contact under tracing,"Cough, Breathlessness","DM, HTN, COPD",10-07-2020,15-07-2020,-
+12,Bengaluru Urban,51088,50,M,Contact under tracing,"Fever, Cough, Breathlessness",-,21-07-2020,14-08-2020,-
+13,Bengaluru Urban,53232,33,M,Contact under tracing,Breathlessness,-,29-06-2020,04-07-2020,-
+14,Bengaluru Urban,66642,49,M,Contact under tracing,"Cough, Breathlessness",DM,04-08-2020,16-08-2020,-
+15,Bengaluru Urban,66753,72,M,Contact under tracing,"Fever, Cough","DM, HTN, IHD",18-07-2020,15-08-2020,-
+16,Bengaluru Urban,70520,65,M,Contact under tracing,Breathlessness,"HTN, IHD",18-07-2020,25-07-2020,-
+17,Bengaluru Urban,70625,66,M,Contact under tracing,Breathlessness,"DM, HTN, CKD",18-07-2020,22-07-2020,-
+18,Bengaluru Urban,75095,70,M,Contact under tracing,Breathlessness,-,21-07-2020,01-08-2020,-
+19,Bengaluru Urban,88174,49,F,Contact under tracing,Breathlessness,IHD,22-07-2020,02-08-2020,-
+20,Bengaluru Urban,90079,78,M,Contact under tracing,Breathlessness,"DM, HTN",24-07-2020,14-08-2020,-
+21,Ballari,104849,42,M,Contact under tracing,"Fever, Cough, Breathlessness",-,28-07-2020,30-07-2020,-
+22,Ballari,110269,55,M,Contact under tracing,"Fever, Cough, Breathlessness",DM,29-07-2020,02-08-2020,-
+23,Ballari,113041,62,M,Contact under tracing,"Cough, Breathlessness","DM, CLD",28-07-2020,30-07-2020,-
+24,Bengaluru Urban,113757,70,M,Contact under tracing,"Cough, Breathlessness","DM, HTN",29-06-2020,16-08-2020,-
+25,Bengaluru Urban,117013,70,F,Contact under tracing,"Fever, Cough, Breathlessness","DM, HTN",27-07-2020,14-08-2020,-
+26,Bengaluru Urban,123884,73,M,Contact under tracing,"Cough, Breathlessness",-,31-07-2020,04-08-2020,-
+27,Ballari,124551,68,F,Contact under tracing,"Fever, Cough, Breathlessness",DM,30-07-2020,02-08-2020,-
+28,Udupi,129268,56,F,Contact under tracing,Fever,HTN,07-08-2020,16-08-2020,-
+29,Kalaburagi,137425,70,M,Contact under tracing,Breathlessness,-,01-08-2020,07-08-2020,-
+30,Bengaluru Urban,137719,85,M,Contact under tracing,"Fever, Cough, Breathlessness","DM, HTN, IHD",13-08-2020,15-08-2020,-
+31,Ballari,138151,64,M,Contact under tracing,"Cough, Breathlessness",-,01-08-2020,06-08-2020,-
+32,Kalaburagi,141858,52,M,Contact under tracing,"Fever, Cough, Breathlessness",DM,16-07-2020,03-08-2020,-
+33,Belagavi,151404,60,F,Contact under tracing,Fever,"HTN, IHD",05-08-2020,15-08-2020,-
+34,Bengaluru Urban,151783,33,M,Contact under tracing,"Cough, Breathlessness",-,05-08-2020,16-08-2020,-
+35,Bengaluru Urban,155584,30,F,Contact under tracing,Breathlessness,-,05-08-2020,06-08-2020,-
+36,Bengaluru Urban,158374,65,M,Contact under tracing,"Fever, Cough, Breathlessness",-,03-08-2020,17-08-2020,-
+37,Bengaluru Urban,159826,86,M,Contact under tracing,"Fever, Cough, Breathlessness","DM, HTN, IHD",05-08-2020,14-08-2020,-
+38,Dakshina Kannada,159868,51,M,Contact under tracing,-,HTN,05-08-2020,16-08-2020,-
+39,Raichuru,159998,59,M,Contact under tracing,Breathlessness,HTN,05-08-2020,05-08-2020,-
+40,Dakshina Kannada,162103,57,M,Contact under tracing,Breathlessness,"DM, HTN, CKD, CLD",04-08-2020,16-08-2020,-
+41,Raichuru,163889,30,M,Contact under tracing,Breathlessness,-,04-08-2020,04-08-2020,-
+42,Belagavi,163966,58,M,Contact under tracing,Breathlessness,HTN,30-07-2020,16-08-2020,-
+43,Raichuru,164222,64,M,Contact under tracing,Breathlessness,HTN,05-08-2020,05-08-2020,-
+44,Dharwada,164889,55,M,Contact under tracing,"Fever, Cough, Breathlessness",-,03-08-2020,12-08-2020,-
+45,Bengaluru Urban,167499,51,M,Contact under tracing,"Fever, Cough, Breathlessness",HTN,08-07-2020,14-08-2020,-
+46,Ballari,173301,69,M,Contact under tracing,"Fever, Cough, Breathlessness",-,07-08-2020,08-08-2020,-
+47,Mandya,173680,50,M,Contact under tracing,Fever,-,30-07-2020,15-08-2020,-
+48,Belagavi,173915,41,M,Contact under tracing,Breathlessness,HTN,07-08-2020,15-08-2020,-
+49,Kalaburagi,174462,62,M,Contact under tracing,"Cough, Breathlessness",Epilepsy,03-08-2020,13-08-2020,-
+50,Bengaluru Urban,179320,81,M,Contact under tracing,"Fever, Cough, Breathlessness",-,08-08-2020,15-08-2020,-
+51,Hassan,180511,56,M,Contact under tracing,"Fever, Cough","DM, HTN, AKI",10-08-2020,16-08-2020,-
+52,Dharwada,181134,67,M,Contact under tracing,Breathlessness,HTN,08-08-2020,13-08-2020,-
+53,Chikkamagaluru,184300,48,F,Contact under tracing,Fever,DM,08-08-2020,17-08-2020,-
+54,Bengaluru Urban,185904,50,M,Contact under tracing,Breathlessness,COPD,09-08-2020,15-08-2020,-
+55,Dharwada,186038,72,M,Contact under tracing,Breathlessness,"DM, HTN, CKD",08-08-2020,11-08-2020,-
+56,Mysuru,186192,90,F,Contact under tracing,Breathlessness,HTN,08-08-2020,16-08-2020,-
+57,Vijayapura,186329,59,F,Contact under tracing,Breathlessness,"DM, HTN",07-08-2020,12-08-2020,-
+58,Dakshina Kannada,186949,60,M,Contact under tracing,"Fever, Cough, Breathlessness","DM, HTN",11-08-2020,16-08-2020,-
+59,Shivamogga,189395,42,M,Contact under tracing,-,-,09-08-2020,10-08-2020,-
+60,Dakshina Kannada,194114,56,M,Contact under tracing,"Fever, Cough, Breathlessness","DM, AKI",11-08-2020,16-08-2020,-
+61,Kalaburagi,194160,54,M,Contact under tracing,-,-,14-08-2020,14-08-2020,-
+62,Belagavi,194925,55,M,Contact under tracing,Breathlessness,"DM, HTN",10-08-2020,16-08-2020,-
+63,Dharwada,195165,45,M,Contact under tracing,Breathlessness,DM,09-08-2020,13-08-2020,-
+64,Dharwada,196192,65,M,Contact under tracing,"Fever, Breathlessness",-,11-08-2020,12-08-2020,-
+65,Bengaluru Urban,196444,78,M,Contact under tracing,Breathlessness,"DM, HTN",11-08-2020,17-08-2020,-
+66,Bengaluru Urban,196498,82,M,Contact under tracing,"Fever, Cough, Breathlessness",HTN,04-08-2020,15-08-2020,-
+67,Kalaburagi,200742,70,M,Contact under tracing,"Fever, Cough, Breathlessness",IHD,12-08-2020,14-08-2020,-
+68,Koppala,203008,72,M,Contact under tracing,Breathlessness,"DM, HTN",12-08-2020,14-08-2020,-
+69,Bagalakote,203220,45,F,Contact under tracing,"Fever, Cough, Breathlessness",,10-08-2020,12-08-2020,-
+70,Vijayapura,203861,65,M,Contact under tracing,"Cough, Breathlessness","DM, HTN",11-08-2020,12-08-2020,-
+71,Dakshina Kannada,205194,49,F,Contact under tracing,-,"DM, HTN, CKD",11-08-2020,16-08-2020,-
+72,Bengaluru Urban,205744,50,M,Contact under tracing,"Fever, Cough",DM,12-08-2020,15-08-2020,-
+73,Kalaburagi,205927,35,M,Contact under tracing,"Cough, Breathlessness",-,-,11-08-2020,Residence
+74,Belagavi,206661,72,M,Contact under tracing,Fever,"DM, HTN",11-08-2020,17-08-2020,-
+75,Kodagu,208642,38,M,Contact under tracing,Breathlessness,,14-08-2020,15-08-2020,-
+76,Shivamogga,208907,60,M,Contact under tracing,Fever,-,11-08-2020,12-08-2020,-
+77,Vijayapura,209828,63,M,Contact under tracing,Breathlessness,"DM,HTN",11-08-2020,12-08-2020,-
+78,Bengaluru Urban,210759,42,M,Contact under tracing,"Fever, Cough, Breathlessness",DM,13-08-2020,17-08-2020,-
+79,Tumakuru,211848,29,F,Contact under tracing,"Fever, Breathlessness",-,09-08-2020,15-08-2020,-
+80,Haveri,213035,68,M,Contact under tracing,"Fever, Cough, Breathlessness","DM, HTN",12-08-2020,16-08-2020,-
+81,Shivamogga,215776,75,M,Contact under tracing,-,-,12-08-2020,13-08-2020,-
+82,Kalaburagi,216633,72,F,Contact under tracing,"Fever, Breathlessness",-,14-08-2020,14-08-2020,-
+83,Bengaluru Urban,217959,55,M,Contact under tracing,"Fever, Breathlessness",HTN,11-08-2020,11-08-2020,-
+84,Bengaluru Urban,219395,87,M,Contact under tracing,"Fever, Cough, Breathlessness",HTN,14-08-2020,15-08-2020,-
+85,Belagavi,223320,72,M,Contact under tracing,Breathlessness,"DM, HTN",15-08-2020,16-08-2020,-
+86,Hassan,223821,80,F,Contact under tracing,Fever,DM,14-08-2020,15-08-2020,-
+87,Mysuru,225778,58,F,Contact under tracing,Breathlessness,"DM, HTN",13-08-2020,15-08-2020,-
+88,Chikkamagaluru,226240,70,M,Contact under tracing,Fever,"DM, HTN",13-08-2020,16-08-2020,-
+89,Belagavi,226701,60,F,Contact under tracing,Breathlessness,DM,14-08-2020,14-08-2020,-
+90,Hassan,227276,85,F,Contact under tracing,Fever,"HTN, IHD",14-08-2020,17-08-2020,-
+91,Haveri,227293,38,F,Contact under tracing,Breathlessness,HTN,14-08-2020,16-08-2020,-
+92,Bengaluru Urban,227858,86,F,Contact under tracing,Breathlessness,HTN,12-08-2020,16-08-2020,-
+93,Mysuru,228524,60,M,Contact under tracing,Breathlessness,CA,14-08-2020,16-08-2020,-
+94,Koppala,229279,67,F,Contact under tracing,Breathlessness,"DM, HTN",14-08-2020,15-08-2020,-
+95,Hassan,229527,80,F,Contact under tracing,-,-,04-08-2020,12-08-2020,-
+96,Shivamogga,229573,74,M,Contact under tracing,Fever,-,12-08-2020,12-08-2020,-
+97,Belagavi,229722,42,M,Contact under tracing,Fever,DM,14-08-2020,17-08-2020,-
+98,Bengaluru Urban,230226,43,F,Contact under tracing,"Fever, Breathlessness",-,13-08-2020,17-08-2020,-
+99,Tumakuru,230365,35,F,Contact under tracing,Fever,-,15-08-2020,15-08-2020,-
+100,Dakshina Kannada,231829,73,M,Contact under tracing,"Fever, Cough, Breathlessness","DM, CKD",15-08-2020,16-08-2020,-
+101,Belagavi,233675,50,F,Contact under tracing,Breathlessness,"DM, HTN",15-08-2020,15-08-2020,-
+102,Koppala,234421,50,M,Contact under tracing,Breathlessness,COPD,15-08-2020,15-08-2020,-
+103,Koppala,234872,69,M,Contact under tracing,Breathlessness,DM,14-08-2020,16-08-2020,-
+104,Mysuru,234917,57,F,Contact under tracing,Breathlessness,HTN,16-08-2020,16-08-2020,-
+105,Hassan,236162,50,M,Contact under tracing,"Fever, Cough","DM, HTN",15-08-2020,15-08-2020,-
+106,Dakshina Kannada,236178,51,M,Contact under tracing,Breathlessness,"DM, CKD",15-08-2020,15-08-2020,-
+107,Haveri,237214,62,M,Contact under tracing,"Fever, Cough, Breathlessness",HTN,16-08-2020,16-08-2020,-
+108,Dakshina Kannada,237552,47,F,Contact under tracing,"Fever, Cough, Breathlessness",Anaemia,14-08-2020,16-08-2020,-
+109,Haveri,237630,53,M,Contact under tracing,"Fever, Cough, Breathlessness",-,15-08-2020,16-08-2020,-
+110,Hassan,238164,70,F,Contact under tracing,Breathlessness,-,11-08-2020,13-08-2020,-
+111,Mysuru,238287,76,M,Contact under tracing,Breathlessness,"DM, HTN",14-08-2020,16-08-2020,-
+112,Uttar Kannada,238387,75,M,Contact under tracing,-,DM,Brought dead on 16-08-2020,,-
+113,Hassan,239747,40,M,Contact under tracing,"Fever, Cough",CVD,12-08-2020,16-08-2020,-
+114,Hassan,239758,50,M,Contact under tracing,Fever,-,14-08-2020,14-08-2020,-
+115,Hassan,240127,65,M,Contact under tracing,"Fever, Breathlessness",-,13-08-2020,13-08-2020,-

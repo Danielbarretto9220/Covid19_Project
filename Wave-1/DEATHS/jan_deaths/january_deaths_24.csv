@@ -1,0 +1,5 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,929990,63,F,ILI,"Fever, Cough","DM, HTN",27-12-2020,18-01-2021,Designated hospital
+2,Dakshina Kannada,940258,69,F,SARI,"Fever, Cough, Breathlessness","DM, HTN, COPD, IHD",10-01-2021,13-01-2021,Designated hospital
+3,Bengaluru Urban,945620,84,M,SARI,"Fever, Cough, Breathlessness",HTN,18-01-2021,18-01-2021,Designated hospital
+4,Mysuru,946389,72,M,SARI,"Fever, Cough, Breathlessness","DM, AKI",18-01-2021,23-01-2021,Private hospital

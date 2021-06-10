@@ -1,0 +1,94 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Vijayapura,88536,52,F,ILI,"Cough, Breathlessness",-,23-07-2020,24-07-2020,Private hospital
+2,Kalaburagi,117560,75,F,SARI,Breathlessness,-,25-07-2020,27-07-2020,Designated hospital
+3,Vijayapura,122036,38,M,Contact under tracing,Breathlessness,HTN,06-08-2020,12-08-2020,Private hospital
+4,Vijayapura,128489,55,F,ILI,"Cough, Breathlessness",-,29-07-2020,02-08-2020,Designated hospital
+5,Bengaluru Urban,143288,73,M,SARI,"Fever, Cough, Breathlessness",-,03-08-2020,06-08-2020,Private hospital
+6,Bengaluru Urban,154489,60,F,SARI,Breathlessness,"DM, HTN",04-07-2020,15-08-2020,Private hospital
+7,Bengaluru Urban,165119,88,F,SARI,Breathlessness,"DM, HTN",06-08-2020,12-08-2020,Private hospital
+8,Ballari,176073,70,F,SARI,"Cough, Breathlessness","DM, HTN",08-08-2020,10-08-2020,Designated hospital
+9,Koppala,179163,75,M,SARI,Breathlessness,"DM, HTN",02-08-2020,20-08-2020,Designated hospital
+10,Ballari,179267,56,M,ILI,"Fever, Cough",HTN,06-08-2020,14-08-2020,Designated hospital
+11,Ballari,183199,52,M,SARI,"Fever, Breathlessness",_,08-08-2020,15-08-2020,Designated hospital
+12,Dharwada,183486,55,F,SARI,"Fever, Breathlessness",-,06-08-2020,10-08-2020,Designated hospital
+13,Ballari,184053,65,F,SARI,"Fever, Breathlessness",_,07-08-2020,17-08-2020,Designated hospital
+14,Dharwada,184471,60,M,Contact under tracing,-,CVA,06-08-2020,17-08-2020,Designated hospital
+15,Bengaluru Urban,185860,66,M,SARI,"Fever, Cough, Breathlessness",-,08-08-2020,19-08-2020,Designated hospital
+16,Koppala,186140,75,M,SARI,Breathlessness,COPD,05-08-2020,08-08-2020,Designated hospital
+17,Bengaluru Urban,186398,76,M,SARI,"Fever, Breathlessness",-,06-08-2020,17-08-2020,Designated hospital
+18,Kodagu,189573,65,M,ILI,"Fever, Cough",-,10-08-2020,20-08-2020,Designated hospital
+19,Bengaluru Urban,191465,63,M,SARI,"Fever, Breathlessness","DM, HTN, CKD",09-08-2020,14-08-2020,Private hospital
+20,Mandya,192916,70,M,SARI,Breathlessness,-,09-08-2020,10-08-2020,Designated hospital
+21,Davanagere,195170,65,M,SARI,"Fever, Cough, Breathlessness",-,08-08-2020,20-08-2020,Private hospital
+22,Dakshina Kannada,195471,71,M,Contact under tracing,Breathlessness,"DM, HTN",08-08-2020,19-08-2020,Private hospital
+23,Ballari,196420,85,F,SARI,"Fever, Breathlessness","DM, HTN, IHD",20-08-2020,21-08-2020,Designated hospital
+24,Bengaluru Urban,197176,41,F,SARI,Breathlessness,"DM, HTN, CKD",11-08-2020,19-08-2020,Designated hospital
+25,Bengaluru Urban,197672,49,M,ILI,"Fever, Cough","DM, HTN",09-08-2020,19-08-2020,Designated hospital
+26,Kalaburagi,200746,7,F,SARI,"Fever, Cough, Breathlessness",-,-,13-08-2020,Residence
+27,Davanagere,205801,69,M,SARI,"Fever, Cough, Breathlessness",HTN,11-08-2020,20-08-2020,Private hospital
+28,Kalaburagi,207803,41,M,SARI,"Fever, Cough, Breathlessness",HTN,12-08-2020,18-08-2020,Private hospital
+29,Davanagere,208559,53,M,SARI,"Fever, Cough, Breathlessness",-,10-08-2020,20-08-2020,Private hospital
+30,Davanagere,211575,62,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",12-08-2020,19-08-2020,Private hospital
+31,Koppala,215609,58,M,SARI,Breathlessness,-,-,19-08-2020,Brought in dead
+32,Ballari,215969,61,M,SARI,"Fever, Breathlessness",HTN,14-08-2020,14-08-2020,Designated hospital
+33,Belagavi,217019,53,M,SARI,Breathlessness,-,17-08-2020,19-08-2020,Designated hospital
+34,Belagavi,217899,65,F,SARI,Breathlessness,-,13-08-2020,13-08-2020,Designated hospital
+35,Ballari,220887,68,F,SARI,"Fever, Cough, Breathlessness",HTN,13-08-2020,16-08-2020,Designated hospital
+36,Kalaburagi,223876,92,M,SARI,"Cough, Breathlessness",IHD,-,13-08-2020,Residence
+37,Davanagere,225527,60,M,SARI,"Fever, Cough, Breathlessness",-,14-08-2020,20-08-2020,Designated hospital
+38,Dharwada,226318,75,F,ILI,Fever,"DM, HTN",13-08-2020,18-08-2020,Designated hospital
+39,Kalaburagi,227301,78,M,ILI,"Fever, Cough, Breathlessness",-,14-08-2020,20-08-2020,Private hospital
+40,Bidar,227562,58,M,SARI,"Fever, Breathlessness",DM,11-08-2020,20-08-2020,Designated hospital
+41,Ballari,228612,76,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",07-08-2020,16-08-2020,Designated hospital
+42,Bengaluru Urban,229198,77,M,SARI,Breathlessness,DM,14-08-2020,18-08-2020,Private hospital
+43,Bengaluru Urban,229201,78,M,SARI,Breathlessness,IHD,14-08-2020,18-08-2020,Private hospital
+44,Dakshina Kannada,229203,52,M,Contact under tracing,"Fever, Cough","DM, HTN",17-08-2020,21-08-2020,Private hospital
+45,Bengaluru Urban,230220,60,M,SARI,Breathlessness,"DM, HTN",19-08-2020,20-08-2020,Designated hospital
+46,Belagavi,231515,60,F,SARI,Breathlessness,DM,16-08-2020,20-08-2020,Designated hospital
+47,Chikkamagaluru,232557,57,M,SARI,"Fever, Cough, Breathlessness","DM, COPD",14-08-2020,21-08-2020,Designated hospital
+48,Ballari,232929,55,F,SARI,"Fever, Breathlessness","DM, HTN",14-08-2020,16-08-2020,Designated hospital
+49,Vijayapura,233537,64,M,Contact under tracing,Fever,HTN,13-08-2020,19-08-2020,Designated hospital
+50,Haveri,233905,65,M,ILI,"Fever, Breathlessness",HTN,15-08-2020,19-08-2020,Designated hospital
+51,Bidar,235009,72,M,SARI,"Cough, Breathlessness",DM,14-08-2020,20-08-2020,Designated hospital
+52,Kalaburagi,238220,60,M,SARI,"Fever, Breathlessness",HTN,14-08-2020,18-08-2020,Designated hospital
+53,Kolara,238229,50,M,SARI,Breathlessness,DM,16-08-2020,18-08-2020,Private hospital
+54,Bidar,238397,65,F,SARI,"Fever, Breathlessness",DM,14-08-2020,20-08-2020,Designated hospital
+55,Dakshina Kannada,238720,60,M,Contact under tracing,"Fever, Cough",--,15-08-2020,20-08-2020,Private hospital
+56,Dakshina Kannada,239635,68,F,Contact under tracing,"Fever, Breathlessness","DM, HTN, IHD, CKD",15-08-2020,19-08-2020,Designated hospital
+57,Kalaburagi,240137,60,F,SARI,"Fever, Cough, Breathlessness",HTN,17-08-2020,18-08-2020,Private hospital
+58,Gadag,241914,62,M,SARI,Breathlessness,-,15-08-2020,18-08-2020,Designated hospital
+59,Tumakuru,246688,50,M,Contact under tracing,-,DM,-,15-08-2020,Brought in dead
+60,Belagavi,247548,65,F,SARI,"Cough, Breathlessness",DM,17-08-2020,20-08-2020,Designated hospital
+61,Belagavi,247554,73,M,SARI,"Cough, Breathlessness",-,17-08-2020,18-08-2020,Designated hospital
+62,Chikkamagaluru,248346,48,F,ILI,"Fever, Cough, Breathlessness",HTN,15-08-2020,21-08-2020,Designated hospital
+63,Kolara,248442,59,M,SARI,-,DM,15-08-2020,17-08-2020,Private hospital
+64,Raichuru,249010,65,F,SARI,Breathlessness,HTN,13-08-2020,14-08-2020,Designated hospital
+65,Raichuru,249377,68,M,SARI,Breathlessness,HTN,16-08-2020,16-08-2020,Designated hospital
+66,Raichuru,249378,53,M,SARI,Breathlessness,-,16-08-2020,16-08-2020,Designated hospital
+67,Haveri,249712,77,M,ILI,"Fever, Breathlessness",-,18-08-2020,18-08-2020,Designated hospital
+68,Hassana,250065,35,M,ILI,Fever,CLD,18-08-2020,21-08-2020,Designated hospital
+69,Hassana,252845,68,M,ILI,Fever,"DM, HTN",17-08-2020,21-08-2020,Designated hospital
+70,Tumakuru,256344,59,F,SARI,Breathlessness,"DM, HTN",-,18-08-2020,Brought in dead
+71,Bengaluru Urban,257969,38,M,SARI,Breathlessness,-,19-08-2020,19-08-2020,Private hospital
+72,Bengaluru Urban,258021,60,F,ILI,Cough,"DM, HTN",11-08-2020,18-08-2020,Designated hospital
+73,Bengaluru Urban,258293,82,M,ILI,"Fever, Cough","DM, HTN",17-08-2020,20-08-2020,Private hospital
+74,Bengaluru Urban,258295,95,M,SARI,Breathlessness,IHD,08-08-2020,18-08-2020,Designated hospital
+75,Belagavi,258980,60,M,Contact under tracing,-,DM,19-08-2020,19-08-2020,Designated hospital
+76,Bengaluru Urban,259094,92,F,SARI,Breathlessness,-,18-08-2020,18-08-2020,Designated hospital
+77,Bengaluru Urban,259119,70,M,ILI,Cough,-,19-08-2020,19-08-2020,Designated hospital
+78,Davanagere,259345,76,M,SARI,"Fever, Cough, Breathlessness",-,19-08-2020,20-08-2020,Designated hospital
+79,Bengaluru Urban,259708,29,M,ILI,Cough,DM,17-08-2020,18-08-2020,Private hospital
+80,Bengaluru Urban,260822,20,M,ILI,-,-,12-08-2020,12-08-2020,Designated hospital
+81,Bengaluru Urban,260847,85,M,ILI,Cough,-,19-08-2020,19-08-2020,Designated hospital
+82,Bengaluru Urban,260878,55,M,SARI,"Cough, Breathlessness","DM, CKD",19-08-2020,19-08-2020,Designated hospital
+83,Bengaluru Urban,261093,75,F,ILI,Cough,CKD,19-08-2020,19-08-2020,Private hospital
+84,Haveri,263006,75,M,SARI,Breathlessness,-,19-08-2020,19-08-2020,Designated hospital
+85,Davanagere,263515,48,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",14-08-2020,20-08-2020,Private hospital
+86,Belagavi,263795,74,F,SARI,"Cough, Breathlessness",-,19-08-2020,20-08-2020,Designated hospital
+87,Koppala,264164,61,M,SARI,Breathlessness,-,13-08-2020,19-08-2020,Designated hospital
+88,Dakshina Kannada,264769,35,M,Contact under tracing,Fever,CLD,18-08-2020,19-08-2020,Designated hospital
+89,Kodagu,264824,60,F,ILI,Fever,-,20-08-2020,21-08-2020,Designated hospital
+90,Tumakuru,265449,64,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",11-08-2020,18-08-2020,Designated hospital
+91,Haveri,266269,30,M,ILI,"Fever, Breathlessness",CVD,-,20-08-2020,Brought in dead
+92,Koppala,266724,74,F,SARI,Breathlessness,DM,19-08-2020,19-08-2020,Designated hospital
+93,Bidar,270367,58,F,SARI,Breathlessness,HTN,19-08-2020,19-08-2020,Designated hospital

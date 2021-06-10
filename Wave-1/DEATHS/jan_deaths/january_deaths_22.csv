@@ -1,0 +1,17 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1.0,Bengaluru Urban,904897.0,70.0,F,SARI,Breathlessness,"DM, HTN",04-12-2020,10-12-2020,Private hospital
+2.0,Bengaluru Urban,905762.0,85.0,F,SARI,Breathlessness,-,04-12-2020,16-12-2020,Private hospital
+3.0,Dakshina Kannada,942318.0,60.0,F,SARI,"Fever, Cough, Breathlessness","HTN, IHD, CVA",11-01-2021,20-01-2021,Private hospital
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info

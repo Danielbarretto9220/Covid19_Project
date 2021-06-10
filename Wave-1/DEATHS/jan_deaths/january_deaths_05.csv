@@ -1,0 +1,32 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1.0,Bengaluru Urban,915412.0,74.0,M,SARI,"Fever, Cough, Breathlessness",DM,21-12-2020,31-12-2020,Designated hospital
+2.0,Bengaluru Urban,925062.0,66.0,M,SARI,"Fever, Cough, Breathlessness",DM,27-12-2020,04-01-2021,Designated hospital
+3.0,Bengaluru Urban,925466.0,77.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",29-12-2020,31-12-2020,Designated hospital
+4.0,Bengaluru Urban,928159.0,86.0,M,ILI,"Fever, Cough","DM, CKD",30-12-2020,01-01-2021,Designated hospital
+5.0,Uttara Kannada,929691.0,69.0,M,SARI,Breathlessness,-,23-12-2020,26-12-2020,Private hospital
+6.0,Bengaluru Urban,931980.0,50.0,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",31-12-2020,02-01-2021,Designated hospital
+7.0,Bengaluru Urban,935049.0,60.0,M,SARI,"Fever, Breathlessness","HTN, CKD",01-01-2021,04-01-2021,Designated hospital
+8.0,Kalaburagi,935662.0,57.0,M,SARI,Breathlessness,IHD,02-01-2021,03-01-2021,Designated hospital
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info

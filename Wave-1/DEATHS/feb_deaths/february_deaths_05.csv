@@ -1,0 +1,4 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Dharwad,953376,72,M,ILI,Fever,"DM, HTN, IHD,",28-01-2021,02-02-2021,Private hospital
+2,Bengaluru Urban,953896,76,M,SARI,Breathlessness,"DM, HTN",31-01-2021,31-01-2021,Private hospital
+3,Bengaluru Urban,954847,82,F,SARI,Breathlessness,"DM, HTN",31-01-2021,02-02-2021,Private hospital

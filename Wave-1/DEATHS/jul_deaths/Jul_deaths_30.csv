@@ -1,0 +1,85 @@
+"Sl-No",District,"St  eP No","AgeInYears",Sex,Description,Symptoms,"Co-Morbidities",DOA,DOD,
+1,"BengaluruUrban",34271,70,F,SARI,Bre  hlessness,"DM, CKD,CLD",15-07-2020,"16-07-2020",Private hospital
+2,"DakshinaKannada",39518,66,M,"Contactundertracing","Fever, Cough","DM, HTN,ILD, IHD","12-07-2020","28-07-2020",Private hospital
+3,Kalaburagi,48519,73,M,SARI,"Fever, Cough,Bre  hlessness",HTN,15-07-2020,"18-07-2020",Designated hospital
+4,"BengaluruUrban",54506,68,F,SARI,Bre  hlessness,"DM, HTN","Died    her residence on21-07-2020",,
+5,"BengaluruUrban",55043,46,M,SARI,Bre  hlessness,-,13-07-2020,"14-07-2020",Private hospital
+6,Kalaburagi,57356,60,F,SARI,Bre  hlessness,-,"11-07-2020","11-07-2020",Designated hospital
+7,Kalaburagi,57634,55,M,SARI,Bre  hlessness,"DM, HTN",15-07-2020,"15-07-2020",Designated hospital
+8,Kalaburagi,58008,59,M,SARI,Bre  hlessness,IHD,16-07-2020,"26-07-2020",Designated hospital
+9,Mysuru,58091,46,M,SARI,Bre  hlessness,-,"14-07-2020","24-07-2020",Designated hospital
+10,Dharwada,59338,72,F,SARI,"Cough,Bre  hlessness",HTN,"12-07-2020","17-07-2020",
+11,Dharwada,60017,84,F,SARI,"Fever, Cough,Bre  hlessness","DM, HTN,CLD","18-07-2020","22-07-2020",
+12,Dharwada,64647,74,F,SARI,"Fever,Bre  hlessness","DM, HTN,CKD, IHD","17-07-2020","24-07-2020",
+13,"BengaluruUrban",67781,58,F,ILI,"Fever, Cough",HTN,16-07-2020,"16-07-2020",Private hospital
+14,Udupi,71890,70,F,ILI,"Fever,Bre  hlessness",CA,"15-07-2020","29-07-2020",
+15,Belagavi,72667,46,F,SARI,Bre  hlessness,DM,"19-07-2020","29-07-2020",Designated hospital
+16,Dharwada,73492,71,M,SARI,Bre  hlessness,"DM, CKD","18-07-2020","26-07-2020",
+17,"BengaluruUrban",75042,88,M,SARI,"Fever,Bre  hlessness",HTN,15-07-2020,"22-07-2020",Private hospital
+18,Kalaburagi,75175,68,M,ILI,-,-,"05-07-2020","05-07-2020",Designated hospital
+19,Bidar,78380,75,M,SARI,Bre  hlessness,HTN,"22-07-2020","28-07-2020",Designated hospital
+20,"DakshinaKannada",78809,52,M,"Contactundertracing","Fever, Cough,Bre  hlessness",CVA,"28-07-2020","29-07-2020",Private hospital
+21,Kalaburagi,79614,68,M,SARI,"Fever,Bre  hlessness","HTN, IHD",21-07-2020,"27-07-2020",Designated hospital
+22,Hassan,81733,60,M,SARI,Bre  hlessness,"DM, HTN,CKD","22-07-2020","29-07-2020",Designated hospital
+23,Dharwada,82942,64,F,SARI,"Fever, Cough,Bre  hlessness",-,"23-07-2020","25-07-2020",
+24,"BengaluruUrban",85465,67,M,SARI,Bre  hlessness,HTN,22-07-2020,"23-07-2020",Private hospital
+25,"DakshinaKannada",87413,64,M,"Contactundertracing","Cough,Bre  hlessness","DM, HTN,IHD","22-07-2020","29-07-2020",Private hospital
+26,Mysuru,88461,58,M,SARI,Bre  hlessness,DM,"23-07-2020","27-07-2020",Private hospital
+27,Udupi,91321,67,M,ILI,Fever,"DM, HTN","24-07-2020","29-07-2020",
+28,Koppala,93659,52,M,ILI,-,CA,"Brought Dead on
+26-07-2020",,
+29,Dharwada,93797,68,M,SARI,Bre  hlessness,"DM, HTN,IHD","22-07-2020","24-07-2020",
+30,Davangere,96853,50,M,SARI,"Fever, Cough,Bre  hlessness",CKD,"24-07-2020","29-07-2020",Designated hospital
+31,Mysuru,98556,56,M,SARI,Bre  hlessness,"HTN, CKD","Brought Dead on27-07-2020",,
+32,Bidar,98661,85,F,SARI,Bre  hlessness,HTN,"24-07-2020","28-07-2020",Designated hospital
+33,Kalaburagi,102058,60,F,SARI,Bre  hlessness,CA,15-07-2020,"27-07-2020",Designated hospital
+34,Kolara,102207,66,M,SARI,-,DM,"25-07-2020","30-07-2020",Private
+35,Haveri,102858,80,M,SARI,Bre  hlessness,"DM, HTN","26-07-2020","28-07-2020",Designated hospital
+36,Shivamogga,103026,65,F,"Contactundertracing",-,-,26-07-2020,26-07-2020,
+37,Yadagiri,104678,62,M,ILI,Fever,-,27-07-2020,"29-07-2020",Designated hospital
+38,Gadag,106087,87,M,SARI,"Fever, Cough,Bre  hlessness",HTN,26-07-2020,"28-07-2020",Designated hospital
+39,Dharwada,106138,82,M,SARI,Bre  hlessness,-,"26-07-2020","27-07-2020",
+40,"BengaluruUrban",106771,66,M,ILI,Fever,DM,26-07-2020,"28-07-2020",Private hospital
+41,Udupi,107155,80,F,ILI,"Fever, Cough","DM, HTN","26-07-2020","29-07-2020",
+42,Chikkamagaluru,107984,85,F,SARI,"Fever, Cough,Bre  hlessness","DM, HTN",27-07-2020,"30-07-2020",Designated hospital
+43,Mysuru,108347,50,F,SARI,Bre  hlessness,DM,"27-07-2020","28-07-2020",Designated hospital
+44,Belagavi,109638,54,M,SARI,Bre  hlessness,HTN,"25-07-2020","29-07-2020",Designated hospital
+45,Belagavi,111704,50,M,SARI,Bre  hlessness,-,"27-07-2020","29-07-2020",Designated hospital
+46,Mysuru,111997,56,F,SARI,Bre  hlessness,"DM, HTN","27-07-2020","28-07-2020",Private hospital
+47,"BengaluruUrban",112027,80,M,SARI,Bre  hlessness,"CKD, IHD",27-07-2020,"27-07-2020",Private hospital
+48,Dharwada,112306,80,F,SARI,"Fever,Bre  hlessness",HTN,"26-07-2020","26-07-2020",
+49,Hassan,112555,68,M,SARI,Bre  hlessness,"HTN, IHD","27-07-2020","30-07-2020",Designated hospital
+50,"BengaluruUrban",112837,65,F,SARI,Bre  hlessness,"DM, HTN,IHD","Died    her residence on28-07-2020",,
+51,"BengaluruUrban",112845,58,M,SARI,Bre  hlessness,"DM, HTN,IHD",14-07-2020,"18-07-2020",Designated hospital
+52,"BengaluruUrban",112863,55,M,ILI,Fever,HTN,22-07-2020,"28-07-2020",Private hospital
+53,"BengaluruUrban",112870,35,M,SARI,Bre  hlessness,HTN,25-07-2020,"25-07-2020",Designated hospital
+54,Kolara,113096,55,M,ILI,-,-,"28-07-2020","29-07-2020",Private hospital
+55,"BengaluruUrban",113752,65,F,ILI,"Fever, Cough",-,26-07-2020,"29-07-2020",Private hospital
+56,"BengaluruUrban",113813,58,M,SARI,Bre  hlessness,HTN,"Died    her residence on25-07-2020",,
+57,Bagalakote,114110,40,F,SARI,"Fever, Cough,Bre  hlessness","DM, HTN",23-07-2020,23-07-2020,
+58,Mysuru,114116,67,M,SARI,Bre  hlessness,-,"26-07-2020","29-07-2020",Designated hospital
+59,"DakshinaKannada",114167,24,M,"Contactundertracing",Bre  hlessness,-,"28-07-2020","28-07-2020",Designated hospital
+60,"DakshinaKannada",114302,36,F,"Contactundertracing","Fever,Bre  hlessness",AKI,"24-07-2020","28-07-2020",Private hospital
+61,Bagalakote,114415,40,M,SARI,"Fever, Cough,Bre  hlessness",-,21-07-2020,22-07-2020,
+62,"DakshinaKannada",115036,39,M,"Contactundertracing",Bre  hlessness,RHD,"25-07-2020","28-07-2020",Private hospital
+63,"DakshinaKannada",115661,52,M,"Contactundertracing","Fever,Bre  hlessness",DM,"Brought Dead on27-07-2020",,
+64,Belagavi,115679,66,F,SARI,Bre  hlessness,-,"28-07-2020","30-07-2020",Designated hospital
+65,Tumakuru,115874,36,M,SARI,"Fever, Cough,Bre  hlessness",-,"Brought Dead on28-07-2020",,
+66,Mysuru,116047,55,M,SARI,Bre  hlessness,HTN,"26-07-2020","29-07-2020",Designated hospital
+67,"BengaluruUrban",116146,65,F,ILI,"Cough, Fever",-,"Died    her residence on29-07-2020",,
+68,"BengaluruUrban",116151,42,M,SARI,Bre  hlessness,-,28-07-2020,"28-07-2020",Private hospital
+69,"BengaluruUrban",116313,47,F,SARI,"Fever,Bre  hlessness",HTN,20-07-2020,"29-07-2020",Private hospital
+70,"BengaluruUrban",116453,55,M,SARI,Bre  hlessness,IHD,26-07-2020,"27-07-2020",Designated hospital
+71,"BengaluruUrban",116794,55,F,SARI,Bre  hlessness,CA,19-07-2020,"27-07-2020",Private hospital
+72,"BengaluruUrban",116817,73,F,SARI,Bre  hlessness,-,26-07-2020,"28-07-2020",Designated hospital
+73,"BengaluruUrban",116865,80,F,SARI,Bre  hlessness,DM,16-07-2020,"29-07-2020",Private hospital
+74,"BengaluruUrban",116888,39,M,SARI,Bre  hlessness,-,"Died    his residence on29-07-2020",,
+75,Mysuru,117569,56,M,SARI,Bre  hlessness,DM,"28-07-2020","29-07-2020",Private hospital
+76,Hassan,117727,52,M,SARI,Bre  hlessness,DM,"28-07-2020","28-07-2020",Designated hospital
+77,Hassan,117735,26,F,SARI,Bre  hlessness,-,"28-07-2020","29-07-2020",Designated hospital
+78,Udupi,117772,63,F,SARI,"Fever,Bre  hlessness",Asthma,"23-07-2020","28-07-2020",
+79,Uttara Kannada,117855,76,M,SARI,"Fever,Bre  hlessness","DM, HTN","28-07-2020","29-07-2020",
+80,Hassan,117956,50,M,SARI,Fever,-,"Brought Dead on28-07-2020",,
+81,Hassan,118079,55,F,SARI,Fever,-,"Brought Dead on29-07-2020",,
+82,Mysuru,119391,58,F,SARI,Bre  hlessness,HTN,"28-07-2020","29-07-2020",Private hospital
+83,Uttara Kannada,120057,72,M,"Contactundertracing",-,-,"Brought Dead on30-07-2020",,

@@ -1,0 +1,3 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,947579,70,M,ILI,Fever,HTN,17-01-2021,18-01-2021,Private hospital
+2,Bengaluru Urban,949795,50,F,ILI,Fever,"HTN, DM, CKD",22-01-2021,22-01-2021,Private hospital

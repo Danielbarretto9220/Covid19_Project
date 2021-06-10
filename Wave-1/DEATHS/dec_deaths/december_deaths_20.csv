@@ -1,0 +1,23 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1.0,Vijayapura,911969.0,58.0,M,SARI,Breathlessness,-,05-12-2020,20-12-2020,Designated hospital
+2.0,Chamarajanagara,917938.0,60.0,M,SARI,Breathlessness,DM,15-12-2020,19-12-2020,Designated hospital
+3.0,Chamarajanagara,918250.0,70.0,F,SARI,Breathlessness,"DM, HTN",16-12-2020,20-12-2020,Designated hospital
+4.0,Bengaluru Urban,919180.0,64.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",16-12-2020,19-12-2020,Designated hospital
+5.0,Bengaluru Urban,921939.0,84.0,M,ILI,-,"IHD, CKD",08-12-2020,19-12-2020,Private hospital
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info

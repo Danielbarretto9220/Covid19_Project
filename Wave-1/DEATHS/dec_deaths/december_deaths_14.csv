@@ -1,0 +1,11 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Ballari,823380,80,M,SARI,"Cough, Breathlessness",_,26-09-2020,27-10-2020,Designated hospital
+2,Bengaluru Urban,901518,54,M,SARI,"Cough, Breathlessness","DM, CA",02-12-2020,05-12-2020,Designated hospital
+3,Mysuru,909594,60,F,SARI,Breathlessness,"DM, IHD",07-12-2020,13-12-2020,Private hospital
+4,Bengaluru Urban,909877,57,M,ILI,"Fever, Cough",-,09-12-2020,13-12-2020,Designated hospital
+5,Bengaluru Urban,910892,83,M,SARI,"Fever, Cough, Breathlessness",-,10-12-2020,13-12-2020,Designated hospital
+6,Bengaluru Urban,913125,60,M,SARI,"Fever, Cough, Breathlessness",COPD,10-12-2020,13-12-2020,Designated hospital
+7,Bengaluru Urban,913629,67,M,SARI,"Fever, Cough, Breathlessness",CVA,13-12-2020,13-12-2020,Designated hospital
+8,Hassana,915433,78,M,ILI,Fever,IHD,10-12-2020,13-12-2020,Designated hospital
+9,Uttara Kannada,915452,54,M,SARI,"Fever, Breathlessness","DM, HTN",12-12-2020,13-12-2020,Designated hospital
+10,Mysuru,915754,45,M,SARI,Breathlessness,HTN,12-12-2020,13-12-2020,Designated hospital

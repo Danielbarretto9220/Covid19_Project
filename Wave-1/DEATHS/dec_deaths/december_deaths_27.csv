@@ -1,0 +1,41 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1.0,1.0,Bengaluru Urban,879037.0,65.0,F,SARI,"Fever, Breathlessness","DM, HTN",01-12-2020,25-12-2020
+2.0,2.0,Kolara,908388.0,65.0,F,SARI,"Cough, Breathlessness","HTN, AKI",26-11-2020,11-12-2020
+3.0,3.0,Bengaluru Urban,909475.0,55.0,M,SARI,"Fever, Breathlessness",-,20-12-2020,24-12-2020
+4.0,4.0,Bengaluru Urban,914356.0,60.0,F,SARI,"Fever, Breathlessness","DM, HTN",13-12-2020,24-12-2020
+5.0,5.0,Mysuru,916887.0,55.0,M,ILI,"Cough, Breathlessness","DM, HTN",14-12-2020,26-12-2020
+6.0,6.0,Bengaluru Urban,921414.0,46.0,M,SARI,"Fever, Breathlessness","DM, HTN",20-12-2020,25-12-2020
+7.0,7.0,Bengaluru Urban,921981.0,59.0,F,SARI,"Fever, Cough, Breathlessness","DM, HTN, IHD",19-12-2020,20-12-2020
+8.0,8.0,Bengaluru Urban,924536.0,80.0,F,SARI,"Fever, Cough, Breathlessness","HTN, IHD",21-12-2020,25-12-2020
+9.0,9.0,Bengaluru Urban,926166.0,77.0,F,SARI,"Fever, Breathlessness","DM, HTN",22-12-2020,24-12-2020
+10.0,10.0,Mysuru,926932.0,29.0,M,ILI,"Cough, Breathlessness",-,21-12-2020,23-12-2020
+11.0,11.0,Bengaluru Urban,927368.0,68.0,F,SARI,Breathlessness,"DM, CLD",24-12-2020,24-12-2020
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info

@@ -1,0 +1,12 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+0,1,Ballari,858010,68,M,SARI,"Fever, Cough, Breathlessness",_,30-10-2020,12-11-2020
+1,2,Kolara,890448,55,M,SARI,"Cough, Breathlessness",DM,24-11-2020,07-12-2020
+2,3,Bengaluru Urban,897214,52,M,SARI,"Fever, Cough, Breathlessness",HTN,29-11-2020,10-12-2020
+3,4,Dakshina Kannada,899612,40,F,Contact under tracing,-,CAD,29-11-2020,07-12-2020
+4,5,Tumakuru,901581,65,M,SARI,"Fever, Breathlessness",DM,04-12-2020,10-12-2020
+5,6,Bengaluru Urban,907341,76,M,ILI,Fever,"DM, HTN, IHD",09-12-2020,09-12-2020
+6,7,Bengaluru Urban,908219,59,F,ILI,Fever,"DM, HTN",07-12-2020,11-12-2020
+7,8,Bengaluru Urban,909942,71,M,ILI,Fever,DM,13-11-2020,11-12-2020
+8,9,Bengaluru Urban,910368,59,M,SARI,"Fever, Cough, Breathlessness",-,12-09-2020,12-09-2020
+9,10,Bengaluru Urban,910443,75,F,SARI,"Fever, Cough, Breathlessness",DM,09-12-2020,10-12-2020
+10,11,Dakshina Kannada,911021,54,M,SARI,"Cough, Breathlessness","DM, COPD",08-12-2020,10-12-2020

@@ -1,0 +1,12 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,1.0,Raichuru,868830.0,44.0,M,SARI,Breathlessness,-,15-11-2020,17-11-2020
+2,2.0,Bengaluru urban,893572.0,75.0,M,SARI,"Cough, Breathlessness",DM,26-11-2020,15-12-2020
+3,3.0,Bengaluru urban,903036.0,62.0,M,SARI,"Fever, Breathlessness","DM, HTN",03-12-2020,15-12-2020
+4,4.0,Dakshina Kannada,911342.0,60.0,M,ILI,-,"DM, HTN, CKD",09-12-2020,12-12-2020
+5,5.0,Chikkaballapura,913852.0,60.0,F,SARI,"Fever, Cough, Breathlessness",-,12-12-2020,15-12-2020
+6,6.0,Bengaluru urban,915777.0,53.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",14-12-2020,16-12-2020
+7,7.0,Bengaluru urban,915801.0,45.0,M,SARI,"Fever, Cough, Breathlessness",-,14-12-2020,16-12-2020
+8,8.0,Bengaluru urban,916231.0,18.0,M,SARI,"Fever, Cough, Breathlessness",-,14-12-2020,16-12-2020
+9,9.0,Bengaluru urban,916517.0,86.0,F,SARI,"Fever, Cough, Breathlessness",-,14-12-2020,17-12-2020
+10,10.0,Bengaluru urban,917217.0,62.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",15-12-2020,16-12-2020
+0,,,,,,,,,,No info

@@ -1,0 +1,6 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,949570,73,M,ILI,Fever,"DM, HTN",25-01-2021,01-02-2021,Private hospital
+2,Tumakuru,955291,49,M,SARI,"Fever, Cough, Breathlessness",DM,05-02-2021,07-02-2021,Designated hospital
+3,Bengaluru Urban,957841,65,M,SARI,Breathlessness,"DM, HTN",08-02-2021,11-02-2021,Private hospital
+4,Bengaluru Urban,958651,67,M,ILI,Fever,"DM, HTN",10-02-2021,18-02-2021,Private hospital
+5,Dharwada,959811,65,M,SARI,"Fever, Cough, Breathlessness","AKI, Hepatitis",12-02-2021,13-02-2021,Private hospital

@@ -1,0 +1,4 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,943749,80,M,SARI,"Fever, Breathlessness",-,13-01-2021,31-01-2021,Private hospital
+2,Dakshina Kannada,949070,80,M,SARI,"Fever, Breathlessness","DM, CVA, AKI",17-01-2021,30-01-2021,Private hospital
+3,Bengaluru Urban,952717,47,F,SARI,"Fever, Cough, Breathlessness","DM, CKD",27-01-2021,28-01-2021,Designated hospital

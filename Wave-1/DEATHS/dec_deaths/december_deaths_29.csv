@@ -1,0 +1,5 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Mysuru,923232,60,M,ILI,Breathlessness,"DM, HTN",19-12-2020,29-12-2020,Private hospital
+2,Bengaluru Urban,923335,40,F,SARI,Breathlessness,HTN,20-12-2020,26-12-2020,Designated hospital
+3,Mysuru,928900,70,F,ILI,Breathlessness,HTN,24-12-2020,28-12-2020,Private hospital
+4,Bengaluru Urban,929461,40,F,ILI,Fever,"DM, HTN, CKD",Died at her residence on 26-12-2020,-,No info

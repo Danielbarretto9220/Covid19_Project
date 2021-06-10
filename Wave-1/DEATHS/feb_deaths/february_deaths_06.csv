@@ -1,0 +1,4 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Rural*,949297,70,M,SARI,"Fever, Breathlessness",HTN,22-01-2021,23-01-2021,Designated hospital
+2,Bengaluru Urban*,950920,70,F,ILI,"Fever, cough",-,23-01-2021,23-01-2021,Designated hospital
+3,Chamarajanagara,953372,60,F,SARI,Breathlessness,"DM, HTN",29-01-2021,05-02-2021,Designated hospital

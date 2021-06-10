@@ -1,0 +1,4 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Vijayapura,927107,55,M,SARI,"Cough, Breathlessness","DM, HTN",22-12-2020,02-01-2021,Private hospital
+2,Udupi,930786,59,F,ILI,Cough,"DM, HTN, CA",27-12-2020,28-12-2020,Private hospital
+3,Bengaluru Urban,932936,90,M,SARI,Breathlessness,"DM, HTN",30-12-2020,01-01-2021,Designated hospital

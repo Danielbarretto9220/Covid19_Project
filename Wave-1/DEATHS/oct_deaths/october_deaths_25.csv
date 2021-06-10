@@ -1,0 +1,59 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1.0,Ballari,679997.0,72.0,M,SARI,Breathlessness,"DM, HTN, CKD, IHD",28-09-2020,19-10-2020,Designated hospital
+2.0,Bengaluru Urban,698011.0,42.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",08-10-2020,23-10-2020,Designated hospital
+3.0,Bengaluru Urban,699655.0,72.0,M,ILI,"Fever, Cough","DM, HTN",06-10-2020,23-10-2020,Private hospital
+4.0,Bengaluru Urban,718239.0,72.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",10-10-2020,23-10-2020,Private hospital
+5.0,Bengaluru Urban,722571.0,58.0,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",10-10-2020,23-10-2020,Private hospital
+6.0,Bengaluru Urban,734127.0,70.0,M,SARI,Breathlessness,CVA,13-10-2020,24-10-2020,Private hospital
+7.0,Bengaluru Urban,734990.0,68.0,M,SARI,"Fever, Cough, Breathlessness",-,11-10-2020,11-10-2020,Private hospital
+8.0,Tumkur,736096.0,47.0,M,ILI,"Fever, Cough","DM, HTN",12-10-2020,23-10-2020,Private hospital
+9.0,Bengaluru Urban,751406.0,81.0,F,SARI,Breathlessness,IHD,12-09-2020,23-10-2020,Private hospital
+10.0,Dakshina Kannada,751664.0,75.0,F,SARI,Breathlessness,"DM, HTN, AKI",13-10-2020,22-10-2020,Designated hospital
+11.0,Bengaluru Urban,751942.0,87.0,M,SARI,Breathlessness,-,14-10-2020,24-10-2020,Private hospital
+12.0,Bengaluru Urban,756386.0,90.0,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",15-10-2020,23-10-2020,Private hospital
+13.0,Bengaluru Urban,757944.0,78.0,M,SARI,"Fever, Cough, Breathlessness",-,14-10-2020,23-10-2020,Private hospital
+14.0,Mysuru,761237.0,51.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",15-10-2020,20-10-2020,Private hospital
+15.0,Kolar,762486.0,70.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",15-10-2020,23-10-2020,Designated hospital
+16.0,Bengaluru Urban,764111.0,63.0,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",16-10-2020,23-10-2020,Private hospital
+17.0,Dakshina Kannada,764150.0,70.0,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",15-10-2020,23-10-2020,Private hospital
+18.0,Bengaluru Urban,766101.0,57.0,F,SARI,"Fever, Cough, Breathlessness",HTN,14-10-2020,23-10-2020,Private hospital
+19.0,Bengaluru Urban,767751.0,70.0,M,SARI,"Fever, Breathlessness",-,16-10-2020,23-10-2020,Private hospital
+20.0,Bengaluru Urban,777146.0,62.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",17-10-2020,23-10-2020,Private hospital
+21.0,Ballari,781478.0,82.0,F,ILI,"Fever, Cough",HTN,18-10-2020,19-10-2020,Designated hospital
+22.0,Bengaluru Urban,783396.0,80.0,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",18-10-2020,23-10-2020,Private hospital
+23.0,Bengaluru Urban,785349.0,68.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",18-10-2020,23-10-2020,Private hospital
+24.0,Kolar,787079.0,75.0,M,SARI,"Fever, Cough, Breathlessness","DM, CKD",16-10-2020,23-10-2020,Private hospital
+25.0,Koppal,787645.0,80.0,F,ILI,"Fever, Cough",-,-,24-10-2020,Residence
+26.0,Mysuru,789980.0,62.0,M,SARI,"Fever, Cough, Breathlessness",-,21-10-2020,25-10-2020,Designated hospital
+27.0,Mandya,797931.0,67.0,F,SARI,"Fever, Cough, Breathlessness",DM,19-10-2020,24-10-2020,Designated hospital
+28.0,Dakshina Kannada,802808.0,64.0,F,SARI,"Fever, Cough, Breathlessness",DM,22-10-2020,22-10-2020,Designated hospital
+29.0,Bengaluru Urban,806070.0,56.0,M,SARI,"Fever, Cough, Breathlessness",IHD,21-10-2020,24-10-2020,Private hospital
+30.0,Bengaluru Urban,807197.0,59.0,M,SARI,"Fever, Cough, Breathlessness","CKD, CLD",22-10-2020,23-10-2020,Private hospital
+31.0,Bengaluru Urban,807555.0,63.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",23-10-2020,23-10-2020,Designated hospital
+32.0,Bengaluru Urban,810137.0,53.0,M,ILI,"Fever, Cough","DM, HTN",16-10-2020,23-10-2020,Private hospital
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info

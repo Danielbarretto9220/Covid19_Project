@@ -1,0 +1,10 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Vijayapura*,902124,40,M,-,Breathlessness,DM,28-11-2020,01-12-2020,Private hospital
+2,Mysuru,923674,62,F,SARI,Breathlessness,"DM, HTN, IHD, CKD",-,31-12-2020,Brought in dead
+3,Bengaluru Urban,923820,68,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",23-12-2020,28-12-2020,Designated hospital
+4,Bengaluru Urban,926904,55,F,SARI,"Fever, Cough, Breathlessness","DM, HTN, CKD",24-12-2020,26-12-2020,Designated hospital
+5,Bengaluru Urban,927281,75,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",24-12-2020,29-12-2020,Designated hospital
+6,Bengaluru Urban,928365,69,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",25-12-2020,27-12-2020,Designated hospital
+7,Mysuru,931682,77,M,SARI,Breathlessness,DM,29-12-2020,30-12-2020,Designated hospital
+8,Bengaluru Urban,931938,75,M,SARI,"Fever, Breathlessness",TB,28-12-2020,29-12-2020,Private hospital
+9,Bengaluru Urban,932294,68,M,SARI,"Fever, Cough, Breathlessness",-,29-12-2020,30-12-2020,Designated hospital

@@ -1,0 +1,23 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1.0,Bengaluru Urban,885759.0,85.0,M,SARI,Breathlessness,HTN,21-11-2020,24-12-2020,Private hospital
+2.0,Dharawada,914875.0,85.0,M,ILI,"Fever, Cold","DM, HTN, IHD",12-12-2020,23-12-2020,Designated hospital
+3.0,Bengaluru Urban,916799.0,79.0,M,SARI,"Cough, Breathlessness",HTN,14-12-2020,24-12-2020,Private hospital
+4.0,Bengaluru Urban,925239.0,75.0,F,SARI,"Fever, Breathlessness","DM, HTN",22-12-2020,23-12-2020,Designated hospital
+5.0,Bengaluru Urban,926175.0,85.0,M,SARI,Breathlessness,CKD,22-12-2020,24-12-2020,Private hospital
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info

@@ -1,0 +1,20 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1.0,Bengaluru Rural,937586.0,75.0,F,SARI,Breathlessness,HTN,05-01-2021,05-01-2021,Private hospital
+2.0,Bengaluru Urban,941676.0,57.0,M,ILI,-,"DM, HTN, CVA",10-01-2021,15-01-2021,Designated hospital
+3.0,Mysuru,944143.0,72.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",13-01-2021,16-01-2021,Designated hospital
+4.0,Mysuru,944292.0,85.0,M,SARI,"Fever, Cough, Breathlessness",IHD,14-01-2021,17-01-2021,Private hospital
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info

@@ -1,0 +1,125 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,27190,63,F,ILI,Fever,"HTN, CLD",-,-,No info
+2,Bengaluru Urban,27217,48,M,SARI,Breathlessness,"HTN, IHD",-,-,No info
+3,Bengaluru Urban,27476,65,M,ILI,Cough,"DM, HTN",-,-,No info
+4,Bengaluru Urban,27566,69,M,SARI,"Cough, Breathlessness",HTN,-,-,No info
+5,Bengaluru Urban,27769,55,F,SARI,Cough,"DM, HTN",-,-,No info
+6,Bengaluru Urban,27915,71,M,SARI,Breathlessness,"DM, HTN",-,-,No info
+7,Bengaluru Urban,27947,75,M,SARI,Breathlessness,CKD,-,-,No info
+8,Bengaluru Urban,28091,58,F,SARI,"Cough, Breathlessness",HTN,-,-,No info
+9,Bengaluru Urban,28201,71,F,SARI,Breathlessness,-,-,-,No info
+10,Bengaluru Urban,29406,78,M,ILI,Cough,"DM, HTN, IHD",-,-,No info
+11,Bengaluru Urban,29426,71,F,SARI,Breathlessness,"DM, HTN, CLD",-,-,No info
+12,Bengaluru Urban,29770,67,F,ILI,Fever,"DM, HTN",-,-,No info
+13,Bengaluru Urban,29827,67,F,SARI,Breathlessness,"DM, HTN",-,-,No info
+14,Bengaluru Urban,30228,70,M,ILI,Fever,"DM, HTN",-,-,No info
+15,Bengaluru Urban,30563,53,M,SARI,Breathlessness,-,-,-,No info
+16,Uttara Kannada,72440,72,M,Contact under Tracing,-,-,-,-,No info
+17,Dakshina Kannada,92854,65,M,Contact under Tracing,"Fever, Breathlessness",DM,-,-,No info
+18,Kalaburagi,94679,58,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",-,-,No info
+19,Bengaluru Urban,98224,44,F,ILI,Fever,DM,-,-,No info
+20,Bengaluru Urban,98364,58,F,ILI,Fever,DM,-,-,No info
+21,Bengaluru Urban,99762,79,M,SARI,Breathlessness,"DM, HTN",-,-,No info
+22,Bengaluru Urban,100013,40,M,SARI,Breathlessness,"DM, IHD",-,-,No info
+23,Bengaluru Urban,100274,65,F,ILI,"Fever, Cough",IHD,-,-,No info
+24,Bengaluru Urban,100411,80,F,SARI,"Cough, Breathlessness",HTN,-,-,No info
+25,Bengaluru Urban,101209,70,M,SARI,Breathlessness,HTN,-,-,No info
+26,Bengaluru Urban,101290,40,F,ILI,Fever,"HTN, CLD",-,-,No info
+27,Bengaluru Urban,101395,75,M,ILI,Fever,"DM, HTN",-,-,No info
+28,Bengaluru Urban,101455,63,M,SARI,Breathlessness,"DM, HTN, IHD",-,-,No info
+29,Bengaluru Urban,107074,74,M,ILI,Fever,DM,-,-,No info
+30,Bengaluru Urban,107119,70,M,ILI,"Fever, Cough","DM, HTN",-,-,No info
+31,Bengaluru Urban,107128,42,M,ILI,"Fever, Cough","DM, HTN",-,-,No info
+32,Bengaluru Urban,107147,78,M,ILI,Fever,"DM, HTN, CKD",-,-,No info
+33,Bengaluru Urban,107524,71,M,SARI,Breathlessness,CKD,-,-,No info
+34,Bengaluru Urban,107701,46,F,SARI,Breathlessness,CKD,-,-,No info
+35,Bengaluru Urban,107764,76,M,ILI,Fever,"DM, HTN",-,-,No info
+36,Tumakuru,108223,63,M,SARI,"Fever, Cough, Breathlessness","DM, IHD",-,-,No info
+37,Bengaluru Urban,108843,73,M,ILI,Fever,-,-,-,No info
+38,Bengaluru Urban,108936,80,M,SARI,Breathlessness,-,-,-,No info
+39,Bengaluru Urban,110811,85,M,ILI,Fever,CLD,-,-,No info
+40,Bengaluru Urban,110872,62,M,SARI,Breathlessness,-,-,-,No info
+41,Bengaluru Urban,111013,73,M,SARI,Breathlessness,DM,-,-,No info
+42,Bengaluru Urban,111130,46,M,SARI,Breathlessness,"DM, HTN",-,-,No info
+43,Bengaluru Urban,111277,78,F,SARI,Breathlessness,"DM, HTN",-,-,No info
+44,Bengaluru Urban,111555,55,M,SARI,Breathlessness,IHD,-,-,No info
+45,Bengaluru Urban,111556,66,M,SARI,Breathlessness,IHD,-,-,No info
+46,Bengaluru Urban,111807,60,F,SARI,Breathlessness,"DM, HTN",-,-,No info
+47,Ballari,125180,70,F,SARI,"Cough, Breathlessness","HTN, IHD",-,-,No info
+48,Vijayapura,128462,68,F,ILI,"Fever, Cough, Breathlessness",COPD,-,-,No info
+49,Uttara Kannada,135187,62,M,Contact under Tracing,-,HTN,-,-,No info
+50,Ballari,135852,75,F,SARI,"Fever, Cough","DM, HTN",-,-,No info
+51,Mandya,137303,62,M,ILI,Fever,-,-,-,No info
+52,Dharwada,139024,71,M,ILI,"Fever, Cough",-,-,-,No info
+53,Ballari,142213,63,M,SARI,-,HTN,-,-,No info
+54,Dharwada,146315,23,M,SARI,Breathlessness,"HTN, CKD",-,-,No info
+55,Chikkaballapura,149591,50,M,SARI,Breathlessness,TB,-,-,No info
+56,Mysuru,151221,60,M,SARI,Breathlessness,RHD,-,-,No info
+57,Dakshina Kannada,151275,70,M,Contact under Tracing,Breathlessness,IHD,-,-,No info
+58,Dharwada,152694,76,M,SARI,"Fever, Breathlessness","DM, HTN, CVD",-,-,No info
+59,Ballari,153956,70,M,ILI,Fever,HTN,-,-,No info
+60,Mysuru,161229,68,M,SARI,Breathlessness,-,-,-,No info
+61,Ballari,161720,79,F,ILI,"Fever, Cough",-,-,-,No info
+62,Mysuru,163393,67,M,SARI,Breathlessness,"DM, HTN",-,-,No info
+63,Dakshina Kannada,175860,80,M,Contact under Tracing,"Fever, Cough, Breathlessness",HTN,-,-,No info
+64,Ballari,176062,26,F,SARI,"Fever, Cough",-,-,-,No info
+65,Ballari,179265,72,F,SARI,"Fever, Cough",-,-,-,No info
+66,Ballari,180216,82,M,SARI,"Fever, Cough",DM,-,-,No info
+67,Chikkamagaluru,180468,62,M,ILI,Fever,HTN,-,-,No info
+68,Belagavi,184091,48,M,SARI,Breathlessness,HTN,-,-,No info
+69,Tumakuru,184993,50,M,SARI,"Fever, Breathlessness","DM, HTN",-,-,No info
+70,Raichuru,185496,72,F,SARI,-,HTN,-,-,No info
+71,Mandya,186158,75,M,ILI,Fever,IHD,-,-,No info
+72,Belagavi,190179,63,M,SARI,Breathlessness,HTN,-,-,No info
+73,Vijayapura,190480,65,F,SARI,"Cough, Breathlessness",-,-,-,No info
+74,Mysuru,190772,57,M,SARI,Breathlessness,"DM, IHD, CKD",-,-,No info
+75,Mysuru,194270,46,M,SARI,Breathlessness,-,-,-,No info
+76,Koppala,195205,42,FEMA LE,SARI,"Cough, Breathlessness",HTN,-,-,No info
+77,Raichuru,195220,75,M,SARI,-,HTN,-,-,No info
+78,Raichuru,196119,56,F,SARI,Breathlessness,-,-,-,No info
+79,Mysuru,197308,56,M,SARI,Breathlessness,"DM, HTN, IHD, CKD",-,-,No info
+80,Gadagaa,197840,61,F,SARI,-,COPD,-,-,No info
+81,Shivamogga,198570,77,F,SARI,Breathlessness,HTN,-,-,No info
+82,Tumakuru,199117,35,M,SARI,"Cough, Breathlessness",-,-,-,No info
+83,Ballari,199270,41,M,SARI,"Fever, Cough, Breathlessness",-,-,-,No info
+84,Davanagere,199744,72,M,SARI,"Fever, Cough, Breathlessness",HTN,-,-,No info
+85,Mysuru,201559,58,M,SARI,Breathlessness,"DM, IHD",-,-,No info
+86,Mysuru,201560,65,M,SARI,Breathlessness,-,-,-,No info
+87,Shivamogga,202456,65,F,ILI,Fever,DM,-,-,No info
+88,Dharwada,205261,60,M,ILI,"Fever, Cough",HTN,-,-,No info
+89,Davanagere,207720,60,F,SARI,"Fever, Cough, Breathlessness",HTN,-,-,No info
+90,Dharwada,209540,64,M,SARI,Breathlessness,"DM, HTN",-,-,No info
+91,Mandya,209672,65,M,ILI,Fever,-,-,-,No info
+92,Vijayapura,209836,62,M,SARI,Breathlessness,DM,-,-,No info
+93,Chikkamagaluru,210918,77,F,SARI,"Fever, Breathlessness","DM, HTN, IHD",-,-,No info
+94,Gadaga,212307,62,F,SARI,"Cough, Breathlessness","DM, HTN",-,-,No info
+95,Chikkamagaluru,214144,56,M,ILI,Cough,HTN,-,-,No info
+96,Tumakuru,214381,50,M,SARI,Fever,"DM, HTN",-,-,No info
+97,Haveri,214777,65,F,ILI,-,"DM, HTN",-,-,No info
+98,Davanagere,215419,80,F,SARI,"Fever, Cough, Breathlessness",-,-,-,No info
+99,Mysuru,217628,65,F,SARI,Breathlessness,"DM, HTN",-,-,No info
+100,Haveri,220053,56,M,Contact under Tracing,Breathlessness,COPD,-,-,No info
+101,Dakshina Kannada,220473,70,M,Contact under Tracing,"Fever, Breathlessness",-,-,-,No info
+102,Koppala,220783,73,M,SARI,Breathlessness,-,-,-,No info
+103,Bengaluru Urban,221036,70,M,SARI,Breathlessness,-,-,-,No info
+104,Bengaluru Urban,221080,77,M,SARI,Breathlessness,IHD,-,-,No info
+105,Dakshina Kannada,221412,78,M,Contact under Tracing,Breathlessness,"HTN, CKD",-,-,No info
+106,Bengaluru Urban,221629,80,M,ILI,Fever,DM,-,-,No info
+107,Bengaluru Urban,222205,80,F,ILI,"Fever, Cough","DM, HTN",-,-,No info
+108,Kalaburagi,223068,60,F,SARI,Breathlessness,"HTN, Pneumonia",-,-,No info
+109,Tumakuru,223139,63,M,SARI,"Cough, Breathlessness",DM,-,-,No info
+110,Bengaluru Urban,223413,46,M,SARI,Breathlessness,IHD,-,-,No info
+111,Chikkamagaluru,223681,50,F,SARI,"Fever, Breathlessness",DM,-,-,No info
+112,Dakshina Kannada,224654,40,M,Contact under Tracing,"Cough, Breathlessness",CLD,-,-,No info
+113,Mysuru,224838,80,M,SARI,Breathlessness,"AKI, HTN",-,-,No info
+114,Dakshina Kannada,225469,38,M,Contact under Tracing,Breathlessness,-,-,-,No info
+115,Bengaluru Urban,226066,56,M,SARI,"Cough, Breathlessness","CLD, IHD",-,-,No info
+116,Koppala,226367,51,F,SARI,Breathlessness,DM,-,-,No info
+117,Bengaluru Urban,228693,76,M,ILI,Fever,CLD,-,-,No info
+118,Belagavi,229726,67,F,SARI,Breathlessness,-,-,-,No info
+119,Hassana,229997,16,M,ILI,"Fever, Cough, Breathlessness",-,-,-,No info
+120,Yadagiri,230070,68,M,SARI,Breathlessness,-,-,-,No info
+121,Yadagiri,230071,68,M,SARI,Breathlessness,-,-,-,No info
+122,Hassana,231288,66,M,SARI,"Fever, Cough, Breathlessness",DM,-,-,No info
+123,Yadagiri,232197,58,M,ILI,Fever,-,-,-,No info
+124,Bidar,233608,50,M,SARI,Breathlessness,HTN,-,-,No info

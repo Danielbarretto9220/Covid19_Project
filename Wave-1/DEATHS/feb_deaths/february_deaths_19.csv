@@ -1,0 +1,6 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,951692,60,M,SARI,Breathlessnes,-,26-01-2021,04-02-2021,Private hospital
+2,Bengaluru Urban,952499,86,M,SARI,Breathlessnes,-,28-01-2021,02-02-2021,Private hospital
+3,Bengaluru Urban,952872,54,M,SARI,Breathlessnes,Cancer,28-01-2021,03-02-2021,Private hospital
+4,Bengaluru Urban,953901,59,M,ILI,"Fever, Cough",DM,30-01-2021,11-02-2021,Private hospital
+5,Kodagu,956166,67,M,SARI,"Fever, Breatlessness","DM, HTN",01-02-2021,04-02-2021,Designated hospital

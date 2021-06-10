@@ -1,0 +1,7 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,928654,60,F,SARI,"Fever, Breathlessness",IHD,26-12-2020,29-12-2020,Designated hospital
+2,Chikkaballapura,929830,70,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",26-12-2020,28-12-2020,Private hospital
+3,Bengaluru Urban,929846,60,M,SARI,"Fever, Breathlessness",-,27-12-2020,31-12-2020,Designated hospital
+4,Bengaluru Urban,931603,81,M,SARI,"Fever, Cough, Breathlessness","HTN, CLD",26-12-2020,30-12-2020,Private hospital
+5,Bengaluru Urban,932251,77,F,SARI,"Fever, Breathlessness",-,29-12-2020,30-12-2020,Designated hospital
+6,Ramanagara,932614,50,M,SARI,Brethlessness,-,30-12-2020,30-12-2020,Designated hospital

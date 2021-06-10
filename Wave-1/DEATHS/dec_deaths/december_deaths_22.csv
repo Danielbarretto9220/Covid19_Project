@@ -1,0 +1,15 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Ballari,878255,56,M,SARI,"Fever, Breathlessness","DM, HTN",15-11-2020,19-11-2020,Designated hospital
+2,Kolara,887297,64,M,SARI,"Cough, Breathlessness",-,22-11-2020,08-12-2020,Private hospital
+3,Bengaluru Rural*,895798,58,F,SARI,Breathlessness,"DM, HTN",18-11-2020,29-11-2020,Designated hospital
+4,Bengaluru Urban,907721,51,M,SARI,"Fever, Cough, Breathlessness","DM, CKD",07-12-2020,21-12-2020,Designated hospital
+5,Bengaluru Rural*,908794,85,M,SARI,Breathlessness,-,08-12-2020,08-12-2020,Designated hospital
+6,Bengaluru Urban,916303,60,M,ILI,"Fever, Cough","DM, HTN, CKD",14-12-2020,18-12-2020,Private hospital
+7,Kalaburagi,916349,55,M,SARI,Breathlessness,"DM, CKD",14-12-2020,21-12-2020,Private hospital
+8,Bengaluru Urban,916576,71,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",15-12-2020,20-12-2020,Designated hospital
+9,Bengaluru Urban,918273,84,M,SARI,"Fever, Cough, Breathlessness",-,16-12-2020,20-12-2020,Designated hospital
+10,Bengaluru Urban,919182,64,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",16-12-2020,19-12-2020,Designated hospital
+11,Bengaluru Urban,919584,66,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",18-12-2020,21-12-2020,Designated hospital
+12,Bengaluru Urban,921009,57,M,SARI,Breathlessness,"HTN, CLD",18-12-2020,21-12-2020,Private hospital
+13,Hassana,921165,41,M,ILI,"Fever, Cough","CVA, MDS",18-12-2020,21-12-2020,Designated hospital
+14,Bengaluru Urban,922827,80,F,ILI,"Fever, Cough","DM, HTN",19-12-2020,20-12-2020,Private hospital

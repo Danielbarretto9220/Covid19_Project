@@ -1,0 +1,71 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1.0,Dharawada,670326.0,70.0,F,SARI,Breathlessness,AKI,06-10-2020,08-10-2020,Private hospital
+2.0,Dharawada,683970.0,64.0,F,SARI,Breathlessness,"DM, HTN, IHD",06-10-2020,08-10-2020,Private hospital
+3.0,Dharawada,698254.0,57.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN, CKD",07-10-2020,07-10-2020,Designated hospital
+4.0,Bengaluru urban,719934.0,56.0,M,SARI,"Fever, Breathlessness","DM, HTN",13-10-2020,26-10-2020,Private hospital
+5.0,Bengaluru urban,734475.0,55.0,M,SARI,"Fever, Breathlessness","DM, HTN",12-10-2020,26-10-2020,Private hospital
+6.0,Bengaluru urban,736315.0,67.0,M,ILI,"Fever, Cough","DM, HTN",21-10-2020,25-10-2020,Designated hospital
+7.0,Bengaluru urban,736361.0,58.0,M,SARI,"Fever, Breathlessness","DM, HTN",12-10-2020,26-10-2020,Private hospital
+8.0,Ballari,739928.0,3.0,F,SARI,"Fever, Cough, Breathlessness",CHD,14-10-2020,26-10-2020,Designated hospital
+9.0,Kalaburagi,746762.0,63.0,F,SARI,"Fever, Cough, Breathlessness",-,12-10-2020,26-10-2020,Private hospital
+10.0,Bengaluru urban,754918.0,48.0,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",15-10-2020,27-10-2020,Designated hospital
+11.0,Bengaluru urban,756746.0,44.0,M,SARI,Breathlessness,HTN,20-10-2020,26-10-2020,Private hospital
+12.0,Bengaluru urban,757639.0,77.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",15-10-2020,26-10-2020,Private hospital
+13.0,Dakshina kannada,759823.0,71.0,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",12-10-2020,19-10-2020,Private hospital
+14.0,Ballari,759985.0,55.0,M,SARI,Breathlessness,_,17-10-2020,26-10-2020,Designated hospital
+15.0,Bengaluru urban,762804.0,65.0,M,SARI,Breathlessness,-,21-10-2020,25-10-2020,Designated hospital
+16.0,Bengaluru urban,762814.0,68.0,M,SARI,"Fever, Breathlessness",DM,15-10-2020,24-10-2020,Private hospital
+17.0,Bengaluru urban,762888.0,80.0,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",15-10-2020,26-10-2020,Private hospital
+18.0,Bengaluru urban,766370.0,78.0,M,SARI,Breathlessness,CKD,16-10-2020,25-10-2020,Private hospital
+19.0,Bengaluru urban,772678.0,84.0,M,SARI,"Fever, Breathlessness","DM, HTN",17-10-2020,25-10-2020,Private hospital
+20.0,Uttara Kannada,773388.0,75.0,M,Contact Under Tracing,-,"DM, HTN, IHD",20-10-2020,26-10-2020,Designated hospital
+21.0,Raichuru,775401.0,55.0,M,SARI,Breathlessness,"DM, HTN",16-10-2020,23-10-2020,Designated hospital
+22.0,Mysuru,778668.0,70.0,F,SARI,Breathlessness,-,17-10-2020,19-10-2020,Private hospital
+23.0,Udupi,779877.0,80.0,F,SARI,Breathlessness,"DM, IHD",16-10-2020,25-10-2020,Private hospital
+24.0,Bengaluru urban,779968.0,70.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",18-10-2020,26-10-2020,Private hospital
+25.0,Bengaluru urban,780632.0,80.0,F,SARI,"Fever, Breathlessness","DM, HTN",19-10-2020,25-10-2020,Private hospital
+26.0,Bengaluru urban,789388.0,56.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",21-10-2020,26-10-2020,Private hospital
+27.0,Bengaluru urban,790172.0,58.0,M,SARI,"Fever, Cough, Breathlessness",-,22-10-2020,25-10-2020,Private hospital
+28.0,Tumakuru,793471.0,60.0,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",22-10-2020,23-10-2020,Private hospital
+29.0,Vijayapura,794480.0,65.0,M,ILI,Breathlessness,HTN,17-10-2020,21-10-2020,Designated hospital
+30.0,Mysuru,796495.0,88.0,M,SARI,Breathlessness,-,19-10-2020,25-10-2020,Designated hospital
+31.0,Bengaluru urban,797383.0,70.0,F,SARI,"Fever, Cough, Breathlessness","DM, HTN",21-10-2020,26-10-2020,Designated hospital
+32.0,Bengaluru urban,799167.0,72.0,M,SARI,"Fever, Breathlessness","DM, HTN",22-10-2020,25-10-2020,Private hospital
+33.0,Kalaburagi,801611.0,66.0,M,SARI,Breathlessness,-,22-10-2020,27-10-2020,Designated hospital
+34.0,Kolara,802391.0,90.0,M,SARI,"Fever, Cough, Breathlessness",DM,19-10-2020,25-10-2020,Private hospital
+35.0,Bengaluru urban,804648.0,54.0,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",23-10-2020,25-10-2020,Designated hospital
+36.0,Chamarajanagara,806199.0,76.0,F,SARI,Breathlessness,HTN,24-10-2020,26-10-2020,Designated hospital
+37.0,Bengaluru urban,808227.0,63.0,F,ILI,"Fever, Breathlessness","DM, HTN",23-10-2020,26-10-2020,Private hospital
+38.0,Belagavi,810099.0,57.0,M,SARI,Breathlessness,"DM, HTN",25-10-2020,27-10-2020,Designated hospital
+39.0,Bengaluru urban,810243.0,58.0,F,SARI,Breathlessness,CKD,17-10-2020,24-10-2020,Private hospital
+40.0,Bengaluru urban,813123.0,84.0,M,SARI,Breathlessness,HTN,23-10-2020,24-10-2020,Private hospital
+41.0,Bengaluru urban,814076.0,35.0,F,ILI,"Fever, Breathlessness","DM, HTN",24-10-2020,26-10-2020,Private hospital
+42.0,Bengaluru urban,814089.0,31.0,M,SARI,"Fever, Cough, Breathlessness",-,24-10-2020,25-10-2020,Private hospital
+43.0,Ballari,819340.0,19.0,M,SARI,"Fever, Breathlessness",_,17-10-2020,26-10-2020,Designated hospital
+44.0,Uttara Kannada,819410.0,58.0,M,SARI,"Fever, Breathlessness","HTN, CKD",22-10-2020,22-10-2020,Private hospital
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info

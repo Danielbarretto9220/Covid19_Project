@@ -1,0 +1,14 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1.0,Bengaluru Urban,956317.0,75.0,M,SARI,Breathlessness,"DM, HTN, CKD",10-02-2021,16-02-2021,Designated hospital
+2.0,Bengaluru Urban*,956612.0,78.0,M,ILI,Cough,"DM, HTN",07-02-2021,10-02-2021,Designated hospital
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info

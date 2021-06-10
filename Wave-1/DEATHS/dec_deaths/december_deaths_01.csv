@@ -1,0 +1,15 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,866487,69,M,ILI,Fever,-,09-11-2020,30-11-2020,Private hospital
+2,Bengaluru Urban,871058,67,M,SARI,"Fever, Cough, Breathlessness","HTN, CKD",13-11-2020,29-11-2020,Private hospital
+3,Ballari,876291,68,M,SARI,Breathlessness,DM,16-11-2020,23-11-2020,Designated hospital
+4,Bengaluru Urban,888427,64,M,SARI,"Fever, Breathlessness",-,21-11-2020,29-11-2020,Designated hospital
+5,Bengaluru Urban,890492,50,F,ILI,Fever,"DM, HTN",24-11-2020,28-11-2020,Private hospital
+6,Bengaluru Urban,891125,85,M,ILI,"Fever, Cough","DM, HTN",25-11-2020,28-11-2020,Private hospital
+7,Bengaluru Urban,892098,58,M,SARI,"Fever, Cough, Breathlessness",HTN,25-11-2020,29-11-2020,Designated hospital
+8,Bengaluru Urban,892605,64,M,SARI,"Fever, Cough, Breathlessness",DM,26-11-2020,29-11-2020,Designated hospital
+9,Chitradurga,893943,4 Months,M,SARI,Breathlessness,Seizures,22-11-2020,28-11-2020,Private hospital
+10,Bengaluru Urban,894208,68,M,SARI,"Fever, Cough, Breathlessness",-,27-11-2020,30-11-2020,Private hospital
+11,Mysuru,896609,64,M,SARI,"Fever, Breathlessness","DM, HTN, CVA",27-11-2020,29-11-2020,Private hospital
+12,Hassan,897690,95,M,ILI,Fever,-,27-11-2020,29-11-2020,Designated hospital
+13,Hassan,897693,59,M,ILI,Fever,DM,29-11-2020,29-11-2020,Designated hospital
+14,Bengaluru Urban,898081,49,M,ILI,Cough,-,28-11-2020,29-11-2020,Private hospital

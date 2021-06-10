@@ -1,0 +1,4 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,948520,87,F,ILI,"Fever, Cough",-,20-01-2021,06-02-2021,Private hospital
+2,Bengaluru Urban,949397,55,M,ILI,Fever,-,21-01-2021,04-02-2021,Private hospital
+3,Bengaluru Urban,950832,68,M,ILI,"Fever, Cough",-,25-01-2021,10-02-2021,Designated hospital

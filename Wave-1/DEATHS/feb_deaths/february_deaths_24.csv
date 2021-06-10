@@ -1,0 +1,27 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1.0,Bengaluru Urban,949733.0,78.0,M,ILI,"Fever,  Cough","DM, HTN",17-01-2021,23-01-2021,Private hospital
+2.0,Bengaluru Urban,950145.0,52.0,F,ILI,Fever,IHD,18-01-2021,22-01-2021,Private hospital
+3.0,Bengaluru Urban,950591.0,70.0,F,ILI,Fever,"DM, HTN",19-01-2021,23-01-2021,Designated hospital
+4.0,Bengaluru Urban,950992.0,68.0,M,SARI,Breathlessness,"DM,HT N",20-01-2021,19-02-2021,Designated hospital
+5.0,Tumakuru,960135.0,61.0,F,SARI,"Fever, Breathlessness","DM, HTN",10-02-2021,16-02-2021,Designated hospital
+6.0,Mysuru,961647.0,65.0,M,SARI,"Cough, Breathlessness","DM, HTN IHD",17-02-2021,23-02-2021,Private hospital
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info
+,,,,,,,,,,No info

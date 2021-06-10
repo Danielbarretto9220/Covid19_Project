@@ -1,0 +1,4 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,931614,56,M,SARI,"Cough, Breathlessness",-,01-01-2021,11-01-2021,Designated hospital
+2,Bengaluru Urban,936508,79,M,SARI,"Fever, Cough, Breathlessness","DM, HTN, CKD",04-01-2021,13-01-2021,Private hospital
+3,Uttara Kannada,942141,75,F,SARI,"Fever, Cough, Breathlessness",HTN,Died at her residence on 10-01-2021,-,No info

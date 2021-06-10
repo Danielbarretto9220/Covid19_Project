@@ -1,0 +1,8 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Kolara,897785,62,M,SARI,Breathlessness,-,22-11-2020,14-12-2020,Private hospital
+2,Tumakuru,933613,82,M,SARI,"Fever, Cough, Breathlessness","DH, HTN",30-12-2020,06-01-2021,Private hospital
+3,Bengaluru Urban,936747,76,F,SARI,"Fever, Cough, Breathlessness",HTN,01-04-2021,04-01-2021,Designated hospital
+4,Bengaluru Urban,925587,47,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",31-12-2021,05-01-2021,Designated hospital
+5,Bengaluru Urban,927248,80,M,ILI,Cough,"DM, HTN",20-12-2020,04-01-2021,Private hospital
+6,Bengaluru Urban,930072,87,M,ILI,"Fever, Cough",IHD,26-12-2020,06-01-2021,Designated hospital
+7,Bengaluru Urban,921117,68,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",18-12-2020,05-01-2021,Private hospital

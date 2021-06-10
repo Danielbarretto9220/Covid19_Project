@@ -1,0 +1,32 @@
+District_Name,Todays_Positives,Total_Positives,Todays_Discharges,Total_Discharges,Total_Active_Cases,Todays_Covid_Deaths,Total_Covid_Deaths,Non_Covid_Deaths
+Bagalakote,2,13752,2,13597,19,0,136,0
+Ballari,11,39115,17,38430,88,0,597,0
+Belagavi,23,26633,19,26108,183,0,342,0
+Bengaluru Rural,11,18596,16,18308,132,0,156,0
+Bengaluru Urban,527,396827,274,387600,4850,1,4376,1
+Bidar,8,7369,2,7157,36,0,172,4
+Chamarajanagara,4,6896,4,6743,23,0,119,11
+Chikkaballapura,19,13490,20,13258,114,0,117,1
+Chikkamagaluru,2,13898,12,13714,45,0,139,0
+Chitradurga,23,14602,7,14360,173,0,69,0
+Dakshina Kannada,31,33561,18,32558,265,0,736,2
+Davanagere,13,22264,10,21925,75,0,264,0
+Dharwada,15,22112,10,21436,65,0,611,0
+Gadag,1,10971,1,10816,14,0,141,0
+Hassana,19,28399,16,27924,81,0,394,0
+Haveri,2,10993,2,10795,8,0,190,0
+Kalaburagi,39,21504,13,20977,199,1,328,0
+Kodagu,9,5941,9,5798,71,0,72,0
+Kolara,4,9974,13,9728,69,0,177,0
+Koppala,1,13924,1,13636,9,0,279,0
+Mandya,9,19631,6,19430,51,0,150,0
+Mysuru,51,53202,18,51942,238,0,1022,0
+Raichuru,1,14255,2,14066,31,0,158,0
+Ramanagara,0,7409,0,7322,10,0,77,0
+Shivamogga,19,22302,14,21850,103,0,349,0
+Tumakuru,24,25028,11,24417,226,1,385,0
+Udupi,10,23254,7,23035,30,0,189,0
+Uttara Kannada,15,14495,6,14241,76,0,178,0
+Vijayapura,7,14392,10,14147,39,0,206,0
+Yadagiri,2,10653,2,10573,19,0,61,0
+Others*,0,36,0,33,0,0,3,0

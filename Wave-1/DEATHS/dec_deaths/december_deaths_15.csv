@@ -1,0 +1,12 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Kodagu,877655,92,M,ILI,"Fever, Cough","DM, IHD",19-11-2020,12-12-2020,Designated hospital
+2,Bengaluru Urban,899035,84,M,SARI,"Fever, Cough, Breathlessness","DM, HTN",30-11-2020,14-12-2020,Designated hospital
+3,Bengaluru Rural*,901228,70,M,SARI,Breathlessness,-,02-12-2020,02-12-2020,Private hospital
+4,Chitradurga,902045,82,M,ILI,"Fever, Cough","DM, HTN",01-12-2020,08-12-2020,Private hospital
+5,Bengaluru Urban,903696,73,F,ILI,"Fever, Cough",-,03-12-2020,12-12-2020,Private hospital
+6,Tumakuru,904040,70,F,SARI,"Fever, Cough, Breathlessness",IHD,04-12-2020,05-12-2020,Designated hospital
+7,Hassana,911039,90,M,ILI,Fever,IHD,13-12-2020,15-12-2020,Designated hospital
+8,Uttara Kannada,911178,54,M,ILI,Breathlessness,"DM, HTN",09-12-2020,14-12-2020,Designated hospital
+9,Haveri,911400,72,M,SARI,Breathlessness,"DM, COPD",06-12-2020,12-12-2020,Designated hospital
+10,Bengaluru Urban,914230,79,M,SARI,"Fever, Cough, Breathlessness",COPD,12-12-2020,14-12-2020,Private hospital
+11,Chikkaballapura,915262,85,M,SARI,"Fever, Cough, Breathlessness",-,12-12-2020,13-12-2020,Designated hospital

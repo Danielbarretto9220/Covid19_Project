@@ -1,0 +1,9 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban*,944423,70,M,ILI,Fever,HTN,14-01-2021,21-01-2021,Private hospital
+2,Bengaluru Urban*,944638,81,M,ILI,Cough,IHD,14-01-2021,15-01-2021,Private hospital
+3,Bengaluru Urban*,944780,75,M,SARI,Breathlessness,-,13-01-2021,31-01-2021,Private hospital
+4,Bengaluru Urban*,945188,86,F,ILI,Fever,-,15-01-2021,24-01-2021,Private hospital
+5,Bengaluru Urban*,945400,66,M,ILI,Fever,HTN,15-01-2021,20-01-2021,Private hospital
+6,Bengaluru Urban*,945459,65,M,ILI,"Fever, Cough",-,16-12-2020,30-01-2021,Private hospital
+7,Bengaluru Urban*,945918,78,F,SARI,Breathlessness,-,16-01-2021,25-01-2021,Private hospital
+8,Dharwada,952951,54,M,ILI,"Fever, Cough",DM,27-01-2021,02-02-2021,Private hospital

@@ -1,0 +1,83 @@
+Unnamed: 0,District,"StateP No","InYears",Sex,Description,Symptoms,"Morbidities",DOA,DOD,Unnamed: 1,,,,,,,,
+1,Mysuru,29098,70,F,SARI,"Fever,Breathlessness","DM,HTN",07-07-2020,24-07-2020,,,,,,,,,
+2,Chikkaballapura,39838,65,F,SARI,"Fever,Breathlessness",-,12-07-2020,18-07-2020,,,,,,,,,
+3,"BengaluruUrban",42858,34,M,SARI,Breathlessness,"DM,HTN",10-07-2020,11-07-2020,,,,,,,,,
+4,"BengaluruUrban",45381,59,M,SARI,Breathlessness,"DM,HTN",13-07-2020,14-07-2020,,,,,,,,,
+5,"BengaluruUrban",45403,61,M,SARI,Breathlessness,"DM,CLD",13-07-2020,15-07-2020,,,,,,,,,
+6,Dharwada,47509,48,M,SARI,Breathlessness,-,13-07-2020,24-07-2020,,,,,,,,,
+7,Hassan,48689,65,M,SARI,Cough,"HTN,IHD",15-07-2020,26-07-2020,,,,,,,,,
+8,Belagavi,49009,60,M,ILI,Fever,-,14-07-2020,21-07-2020,,,,,,,,,
+9,"BengaluruUrban",54277,60,M,ILI,"Fever, Cough",DM,15-07-2020,15-07-2020,,,,,,,,,
+10,"BengaluruUrban",54768,60,F,ILI,"Fever, Cough",DM,17-07-2020,25-07-2020,,,,,,,,,
+11,"BengaluruUrban",54899,76,M,SARI,"Fever,Breathlessness","DM,HTN",15-07-2020,24-07-2020,,,,,,,,,
+12,Kalaburagi,55476,55,M,SARI,Breathlessness,IHD,15-07-2020,16-07-2020,,,,,,,,,
+13,Dharwada,59662,57,M,SARI,"Fever,Breathlessness","DM,HTN",16-07-2020,23-07-2020,,,,,,,,,
+14,Dharwada,60038,49,F,SARI,"Fever,Breathlessness","DM,HTN",14-07-2020,24-07-2020,,,,,,,,,
+15,Dharwada,60158,34,M,SARI,"Fever, Cough,Breathlessness",CLD,17-07-2020,22-07-2020,,,,,,,,,
+16,"BengaluruUrban",61648,58,M,ILI,Fever,"HTN,IHD",15-07-2020,15-07-2020,,,,,,,,,
+17,Kalaburagi,63509,58,F,SARI,"Cough,Breathlessness",HTN,23-07-2020,25-07-2020,,,,,,,,,
+18,Dharwada,63695,45,M,SARI,Breathlessness,DM,15-07-2020,24-07-2020,,,,,,,,,
+19,Mysuru,64208,31,M,SARI,"Fever,Breathlessness",-,19-07-2020,25-07-2020,,,,,,,,,
+20,Belagavi,64257,78,M,SARI,Breathlessness,-,"Brought dead on18-07-2020",,,,,,,,,,
+21,Davangere,64508,64,M,SARI,"Fever, Cough,Breathlessness","DM,HTN,IHD",18-07-2020,24-07-2020,,,,,,,,,
+22,Belagavi,65053,44,M,ILI,Fever,-,18-07-2020,19-07-2020,,,,,,,,,
+23,Belagavi,65456,60,M,ILI,"Fever, Cough",-,16-07-2020,20-07-2020,,,,,,,,,
+24,Gadag,65878,78,F,SARI,"Fever,Breathlessness",-,24-07-2020,25-07-2020,,,,,,,,,
+25,"BengaluruUrban",70248,47,F,ILI,Fever,"DM,HTN",18-07-2020,20-07-2020,,,,,,,,,
+26,"BengaluruUrban",71135,66,F,SARI,Breathlessness,"DM,HTN",15-07-2020,22-07-2020,,,,,,,,,
+27,Belagavi,72429,55,M,SARI,"Fever,Breathlessness",-,18-07-2020,21-07-2020,,,,,,,,,
+28,Belagavi,72773,50,F,SARI,Breathlessness,"DM,HTN,CKD",19-07-2020,20-07-2020,,,,,,,,,
+29,"DakshinaKannada",72795,65,M,"Contactundertracing","Fever, Cough,Breathlessness","DM,HTN,IHD",19-07-2020,26-07-2020,,,,,,,,,
+30,Dharwada,73082,72,M,SARI,"Cough,Breathlessness",IHD,18-07-2020,22-07-2020,,,,,,,,,
+31,"BengaluruUrban",76451,63,M,ILI,Fever,"DM,HTN",19-07-2020,23-07-2020,,,,,,,,,
+32,Mandya,76814,25,M,SARI,"Fever, Cough,Breathlessness",-,22-07-2020,25-07-2020,,,,,,,,,
+33,Shivamogga,77046,48,F,ILI,Fever,-,19-07-2020,20-07-2020,,,,,,,,,
+34,"DakshinaKannada",77184,70,M,"Contactundertracing","Fever,Breathlessness","HTN,CKD",21-07-2020,24-07-2020,,,,,,,,,
+35,Kalaburagi,77325,70,M,SARI,Breathlessness,HTN,16-07-2020,18-07-2020,,,,,,,,,
+36,Bagalakote,77521,55,F,SARI,"Fever, Cough,Breathlessness",-,"Brought dead on17-07-2020",,,,,,,,,,
+37,"BengaluruUrban",78245,57,M,ILI,Fever,DM,21-07-2020,22-07-2020,,,,,,,,,
+38,Chikkaballapura,79488,45,F,SARI,Breathlessness,-,21-07-2020,25-07-2020,,,,,,,,,
+39,"DakshinaKannada",79647,64,M,"Contactundertracing","Fever, Cough,Breathlessness","DM,HTN",20-07-2020,25-07-2020,,,,,,,,,
+40,Bagalakote,82321,54,M,SARI,"Fever, Cough,Breathlessness",-,"Died at his residence on13-07-2020",,,,,,,,,,
+41,Hassan,82764,47,M,SARI,"Fever, Cough,Breathlessness",HTN,21-07-2020,26-07-2020,,,,,,,,,
+42,Davangere,83021,21,M,SARI,"Fever, Cough,Breathlessness",-,22-07-2020,23-07-2020,,,,,,,,,
+43,Tumakuru,84819,79,M,SARI,"Fever, Cough,Breathlessness",-,22-07-2020,23-07-2020,,,,,,,,,
+44,Davangere,85812,65,F,SARI,"Fever, Cough,Breathlessness",DM,21-07-2020,23-07-2020,,,,,,,,,
+45,Vijayapura,86003,76,M,SARI,"Cough,Breathlessness","DM,HTN",18-07-2020,22-07-2020,,,,,,,,,
+46,Tumakuru,88634,58,M,SARI,Breathlessness,-,"Brought dead on23-07-2020",,,,,,,,,,
+47,"DakshinaKannada",89010,45,F,"Contactundertracing",Breathlessness,HTN,24-07-2020,24-07-2020,,,,,,,,,
+48,"DakshinaKannada",90970,68,M,"Contactundertracing","Fever,Breathlessness",DM,23-07-2020,23-07-2020,,,,,,,,,
+49,Hassan,91056,58,M,SARI,Breathlessness,DM,22-07-2020,26-07-2020,,,,,,,,,
+50,Gadag,91077,64,M,SARI,"Fever,Breathlessness",HTN,22-07-2020,25-07-2020,,,,,,,,,
+51,Kalaburagi,91109,78,M,SARI,Breathlessness,"DM,HTN,IHD",20-07-2020,20-07-2020,,,,,,,,,
+52,"BengaluruUrban",91762,67,M,ILI,Fever,CKD,22-07-2020,23-07-2020,,,,,,,,,
+53,"BengaluruUrban",91909,81,F,SARI,Breathlessness,"DM,HTN,CLD",23-07-2020,24-07-2020,,,,,,,,,
+54,Chikkamagaluru,92178,55,M,SARI,"Fever, Cough,Breathlessness","DM,HTN",23-07-2020,26-07-2020,,,,,,,,,
+55,"DakshinaKannada",92399,55,M,"Contactundertracing",Breathlessness,"DM,HTN",21-07-2020,24-07-2020,,,,,,,,,
+56,Tumakuru,92570,55,F,SARI,"Fever,Breathlessness",DM,24-07-2020,25-07-2020,,,,,,,,,
+57,Tumakuru,92648,52,M,SARI,Breathlessness,-,24-07-2020,24-07-2020,,,,,,,,,
+58,"BengaluruUrban",92894,63,M,SARI,Breathlessness,-,23-07-2020,24-07-2020,,,,,,,,,
+59,"BengaluruUrban",93016,55,M,SARI,Breathlessness,CLD,24-07-2020,24-07-2020,,,,,,,,,
+60,"BengaluruUrban",93414,65,M,SARI,Breathlessness,IHD,23-07-2020,23-07-2020,,,,,,,,,
+61,"BengaluruUrban",93443,66,M,ILI,Fever,CLD,24-07-2020,24-07-2020,,,,,,,,,
+62,"BengaluruUrban",93599,65,M,SARI,Breathlessness,IHD,24-07-2020,24-07-2020,,,,,,,,,
+63,"BengaluruUrban",93607,70,F,ILI,Fever,DM,23-07-2020,24-07-2020,,,,,,,,,
+64,"BengaluruUrban",93613,49,M,SARI,Breathlessness,-,23-07-2020,24-07-2020,,,,,,,,,
+65,Mysuru,93731,59,F,SARI,"Fever,Breathlessness","HTN,CKD",24-07-2020,25-07-2020,,,,,,,,,
+66,Mysuru,93732,64,F,SARI,"Fever,Breathlessness","DM,HTN,CKD",20-07-200,25-07-2020,,,,,,,,,
+67,Kalaburagi,94463,57,M,SARI,"Fever,Breathlessness",-,20-07-2020,21-07-2020,,,,,,,,,
+68,Uttara Kannada,94599,66,M,SARI,"Fever, Cough,Breathlessness",HTN,"Brought dead on25-07-2020",,,,,,,,,,
+69,Kalaburagi,94866,48,M,SARI,Breathlessness,DM,20-07-2020,23-07-2020,,,,,,,,,
+70,Mysuru,95189,70,M,SARI,"Fever,Breathlessness",DM,23-07-2020,25-07-2020,,,,,,,,,
+71,"BengaluruUrban",95210,82,M,ILI,Fever,DM,24-07-2020,24-07-2020,,,,,,,,,
+72,"BengaluruUrban",95323,76,M,ILI,"Fever, Cough","DM,HTN,IHD",24-07-2020,24-07-2020,,,,,,,,,
+73,"BengaluruUrban",95386,73,M,ILI,"Fever, Cough","DM,HTN",20-07-2020,24-07-2020,,,,,,,,,
+74,"BengaluruUrban",95388,40,F,SARI,Breathlessness,-,23-07-2020,24-07-2020,,,,,,,,,
+75,"BengaluruUrban",95730,45,M,SARI,Breathlessness,"DM,HTN",20-07-2020,24-07-2020,,,,,,,,,
+76,Tumakuru,96404,73,M,SARI,-,"DM,HTN",22-07-2020,24-07-2020,,,,,,,,,
+77,"BengaluruUrban",96638,53,M,SARI,Breathlessness,HTN,21-07-2020,21-07-2020,,,,,,,,,
+78,"BengaluruUrban",96652,80,F,ILI,Fever,"DM,HTN",23-07-2020,24-07-2020,,,,,,,,,
+79,"BengaluruUrban",98094,69,M,ILI,Fever,"DM,HTN",24-07-2020,25-07-2020,,,,,,,,,
+80,"BengaluruUrban",98338,41,M,SARI,"Fever,Breathlessness",HTN,24-07-2020,25-07-2020,,,,,,,,,
+81,Uttara Kannada,98810,75,F,ILI,"Fever,Breathlessness",HTN,"Brought dead on25-07-2020",,,,,,,,,,
+82,"DakshinaKannada",99428,70,M,"Contactundertracing","Fever,Breathlessness","HTN,CKD",24-07-2020,24-07-2020,,,,,,,,,

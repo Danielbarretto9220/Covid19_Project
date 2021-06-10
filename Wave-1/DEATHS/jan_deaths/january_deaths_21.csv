@@ -1,0 +1,3 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,938177,90,F,SARI,"Fever, Cough, Breathlessness",-,04-01-2021,20-01-2021,Private hospital
+2,Dharawada,939995,70,M,ILI,"Fever,  Cough","DM, HTN, CKD",04-01-2021,15-01-2021,Private hospital

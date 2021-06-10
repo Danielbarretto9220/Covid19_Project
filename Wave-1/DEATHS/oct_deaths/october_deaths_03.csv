@@ -1,0 +1,101 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Ballari,98512,58,M,SARI,"Fever, Cough, Breathlessness",-,26-07-2020,27-07-2020,Designated hospital
+2,Hassana,443159,38,F,ILI,Fever,-,09-09-2020,02-10-2020,Designated hospital
+3,Bengaluru Urban,444775,78,M,SARI,"Cough, Breathlessness","DM, HTN",15-09-2020,01-10-2020,Private hospital
+4,Belagavi,468005,75,M,SARI,Breathlessness,HTN,11-09-2020,29-09-2020,Designated hospital
+5,Bengaluru Urban,472759,79,F,SARI,"Cough, Breathlessness","DM, HTN",14-09-2020,01-10-2020,Private hospital
+6,Dakshina Kannada,481309,66,F,Contact under tracing,"Cough, Breathlessness","DM, HTN, CKD, CLD, COPD",12-09-2020,02-10-2020,Private hospital
+7,Dharwada,482282,60,M,Contact under tracing,"Cough, Breathlessness","DM, AKI",15-09-2020,18-09-2020,Designated hospital
+8,Vijayapura,492203,65,M,Contact under tracing,"Cough, Breathlessness",HTN,20-09-2020,28-09-2020,Private hospital
+9,Dakshina Kannada,506281,50,M,Contact under tracing,"Fever, Cough, Breathlessness",HTN,16-09-2020,21-09-2020,Designated hospital
+10,Raichuru,508407,62,M,Contact under tracing,Breathlessness,HTN,16-09-2020,21-09-2020,Designated hospital
+11,Tumakuru,508471,65,M,Contact under tracing,"Fever, Cough, Breathlessness","DM, HTN",27-09-2020,27-09-2020,Private hospital
+12,Mysuru,515064,61,F,Contact under tracing,Breathlessness,-,19-09-2020,01-10-2020,Designated hospital
+13,Shivamogga,515264,82,M,Contact under tracing,Fever,-,17-09-2020,22-09-2020,Designated hospital
+14,Shivamogga,519663,72,M,Contact under tracing,Fever,,19-09-2020,26-09-2020,Designated hospital
+15,Dharwada,526224,62,M,Contact under tracing,"Fever, Breathlessness",HTN,18-09-2020,24-09-2020,Designated hospital
+16,Dharwada,526426,81,M,Contact under tracing,"Fever, Cough, Breathlessness","DM, HTN",19-09-2020,27-09-2020,Designated hospital
+17,Dharwada,536922,68,M,Contact under tracing,Fever,-,18-09-2020,26-09-2020,Designated hospital
+18,Uttar Kannada,537994,57,M,Contact under tracing,"Fever, Breathlessness",HTN,20-09-2020,23-09-2020,Private hospital
+19,Dakshina Kannada,539151,89,F,Contact under tracing,Breathlessness,"DM, HTN, CVA",19-09-2020,02-10-2020,Private hospital
+20,Tumakuru,539908,75,M,Contact under tracing,Breathlessness,-,19-09-2020,09-10-2020,Private hospital
+21,Bengaluru Urban,545658,72,M,Contact under tracing,"Cough, Breathlessness","DM, HTN",20-09-2020,01-10-2020,Private hospital
+22,Ballari,547714,50,F,Contact under tracing,"Fever, Breathlessness",HTN,22-09-2020,02-10-2020,Designated hospital
+23,Bengaluru Urban,548333,60,M,Contact under tracing,Fever,COPD,27-09-2020,01-10-2020,Private hospital
+24,Kalaburagi,548779,40,M,Contact under tracing,"Fever, Cough, Breathlessness",DM,01-10-2020,02-10-2020,Designated hospital
+25,Koppala,549083,62,F,Contact under tracing,-,"DM, HTN",-,01-10-2020,Brought in dead
+26,Bengaluru Urban,551854,64,F,Contact under tracing,Breathlessness,DM,22-09-2020,01-10-2020,Private hospital
+27,Mysuru,552148,73,M,Contact under tracing,Breathlessness,"DM, IHD",21-09-2020,01-10-2020,Private hospital
+28,Ballari,554630,83,M,Contact under tracing,"Cough, Breathlessness",-,25-09-2020,27-09-2020,Designated hospital
+29,Ballari,555956,85,M,Contact under tracing,"Fever, Breathlessness",HTN,22-09-2020,30-09-2020,Designated hospital
+30,Bengaluru Urban,556157,70,M,Contact under tracing,"Fever, Breathlessness","HTN, IHD",21-09-2020,01-10-2020,Designated hospital
+31,Bengaluru Urban,556603,76,F,Contact under tracing,"Cough, Breathlessness","DM, HTN",23-09-2020,01-10-2020,Private hospital
+32,Bengaluru Urban,558096,68,M,Contact under tracing,"Cough, Breathlessness",-,23-09-2020,01-10-2020,Designated hospital
+33,Dakshina Kannada,561052,50,F,Contact under tracing,Breathlessness,-,25-09-2020,29-09-2020,Private hospital
+34,Hassan,561109,72,M,Contact under tracing,Fever,DM,30-09-2020,02-10-2020,Private hospital
+35,Mysuru,562105,55,M,Contact under tracing,Breathlessness,CLD,22-09-2020,03-10-2020,Private hospital
+36,Bidar,562810,75,M,Contact under tracing,"Fever, Breathlessness",HTN,22-09-2020,02-10-2020,Designated hospital
+37,Mysuru,565725,75,M,Contact under tracing,Breathlessness,"DM, IHD",24-09-2020,28-09-2020,Private hospital
+38,Dakshina Kannada,568069,55,M,Contact under tracing,-,"HTN, CVA",24-09-2020,24-09-2020,Designated hospital
+39,Hassan,568116,43,M,Contact under tracing,Fever,-,30-09-2020,02-10-2020,Private hospital
+40,Mysuru,568931,66,F,Contact under tracing,Breathlessness,"DM, HTN, CKD",22-09-2020,29-09-2020,Designated hospital
+41,Belagavi,569081,91,M,Contact under tracing,Breathlessness,HTN,24-09-2020,29-09-2020,Designated hospital
+42,Mysuru,569939,40,M,Contact under tracing,Breathlessness,-,29-09-2020,02-10-2020,Designated hospital
+43,Uttar Kannada,570051,55,M,Contact under tracing,-,"DM, HTN",25-09-2020,29-09-2020,Designated hospital
+44,Dakshina Kannada,570590,44,M,Contact under tracing,Fever,"HTN, AKI",24-09-2020,02-10-2020,Private hospital
+45,Shivamogga,572222,55,F,Contact under tracing,Breathlessness,"DM, COPD",24-09-2020,01-10-2020,Designated hospital
+46,Mysuru,573902,65,M,Contact under tracing,Breathlessness,"DM, HTN",26-09-2020,30-09-2020,Designated hospital
+47,Uttar Kannada,574016,54,M,Contact under tracing,-,CKD,-,27-09-2020,Residence
+48,Dakshina Kannada,576026,61,M,Contact under tracing,"Fever, Cough, Breathlessness","HTN, COPD",24-09-2020,26-09-2020,Designated hospital
+49,Mysuru,578806,85,M,Contact under tracing,Breathlessness,"DM, HTN",26-09-2020,01-10-2020,Designated hospital
+50,Bengaluru Urban,579203,66,M,Contact under tracing,Fever,-,26-09-2020,01-10-2020,Private hospital
+51,Mysuru,579815,61,M,Contact under tracing,Breathlessness,"DM, IHD",25-09-2020,02-10-2020,Private hospital
+52,Mysuru,579862,78,M,Contact under tracing,Breathlessness,-,26-09-2020,29-09-2020,Designated hospital
+53,Bengaluru Urban,580134,57,M,Contact under tracing,Breathlessness,"DM, CKD",30-09-2020,01-10-2020,Private hospital
+54,Bengaluru Urban,580357,77,F,Contact under tracing,Breathlessness,"DM, HTN",25-09-2020,30-09-2020,Private hospital
+55,Bengaluru Urban,587261,57,M,Contact under tracing,Fever,-,26-09-2020,01-10-2020,Private hospital
+56,Bengaluru Urban,587492,76,F,Contact under tracing,Breathlessness,"DM, HTN",26-09-2020,01-10-2020,Private hospital
+57,Tumakuru,591091,62,M,Contact under tracing,Fever,DM,27-09-2020,30-09-2020,Private hospital
+58,Bengaluru Urban,591236,66,M,Contact under tracing,"Cough, Breathlessness",DM,25-09-2020,30-09-2020,Private hospital
+59,Bengaluru Urban,593048,63,M,Contact under tracing,Breathlessness,"DM, HTN",27-09-2020,01-10-2020,Private hospital
+60,Chamarajanagara,593292,55,M,Contact under tracing,-,-,27-09-2020,30-09-2020,Designated hospital
+61,Bengaluru Urban,593823,61,F,Contact under tracing,"Cough, Breathlessness",-,27-09-2020,01-10-2020,Designated hospital
+62,Tumakuru,595064,56,M,Contact under tracing,"Fever, Cough, Breathlessness",DM,25-09-2020,29-09-2020,Private hospital
+63,Hassana,597205,80,F,Contact under tracing,Fever,HTN,27-09-2020,01-10-2020,Designated hospital
+64,Belagavi,597922,65,M,Contact under tracing,Breathlessness,"DM, HTN",27-09-2020,30-09-2020,Designated hospital
+65,Dharwada,598528,46,M,Contact under tracing,-,DM,28-09-2020,28-09-2020,Designated hospital
+66,Gadag,598532,62,F,Contact under tracing,"Cough, Breathlessness","DM, HTN",23-09-2020,30-09-2020,Designated hospital
+67,Mysuru,598976,74,M,Contact under tracing,Breathlessness,-,27-09-2020,02-10-2020,Designated hospital
+68,Mysuru,599356,60,F,Contact under tracing,Breathlessness,"HTN, COPD",25-09-2020,30-09-2020,Designated hospital
+69,Tumakuru,600318,52,M,Contact under tracing,Fever,"DM, HTN, RVD",22-09-2020,30-09-2020,Private hospital
+70,Bengaluru Rural,601249,65,M,Contact under tracing,Breathlessness,"DM, HTN",26-09-2020,29-09-2020,Designated hospital
+71,Uttar Kannada,604342,82,M,Contact under tracing,-,"DM, HTN",-,29-09-2020,Residence
+72,Bengaluru Urban,604639,55,F,Contact under tracing,"Fever, Breathlessness","DM, HTN",30-09-2020,01-10-2020,Private hospital
+73,Mysuru,605259,74,M,Contact under tracing,Breathlessness,"DM, HTN",30-09-2020,01-10-2020,Designated hospital
+74,Dakshina Kannada,606092,36,F,Contact under tracing,Fever,-,27-09-2020,28-09-2020,Designated hospital
+75,Dakshina Kannada,608640,67,M,Contact under tracing,"Fever, Cough, Breathlessness",DM,29-09-2020,02-10-2020,Private hospital
+76,Bengaluru Urban,609054,87,M,Contact under tracing,"Cough, Breathlessness","DM, HTN",29-09-2020,01-10-2020,Designated hospital
+77,Bengaluru Urban,609125,89,M,Contact under tracing,Fever,"DM, HTN",29-09-2020,01-10-2020,Designated hospital
+78,Mysuru,609904,65,F,Contact under tracing,Breathlessness,"DM, HTN",26-09-2020,30-09-2020,Designated hospital
+79,Koppala,611812,38,M,Contact under tracing,-,-,29-09-2020,03-10-2020,Designated hospital
+80,Mysuru,611845,52,F,Contact under tracing,Breathlessness,"DM, HTN",29-09-2020,30-09-2020,Designated hospital
+81,Bengaluru Urban,612923,74,M,Contact under tracing,"Cough, Breathlessness","DM, HTN",30-09-2020,01-10-2020,Designated hospital
+82,Haveri,613279,45,M,Contact under tracing,"Fever, Cough, Breathlessness","DM, HTN",29-09-2020,01-10-2020,Designated hospital
+83,Davangere,615430,65,M,Contact under tracing,-,-,27-09-2020,02-10-2020,Designated hospital
+84,Mandya,615656,85,M,Contact under tracing,"Fever, Cough, Breathlessness","DM, HTN, IHD",29-09-2020,02-10-2020,Designated hospital
+85,Bengaluru Urban,616332,50,M,Contact under tracing,Fever,"DM, HTN",01-10-2020,01-10-2020,Private hospital
+86,Haveri,617947,38,M,Contact under tracing,"Fever, Cough, Breathlessness","DM, HTN",29-09-2020,30-09-2020,Designated hospital
+87,Hassana,618853,50,M,Contact under tracing,Fever,-,30-09-2020,03-10-2020,Designated hospital
+88,Hassana,619494,70,M,Contact under tracing,Breathlessness,"DM, HTN, CKD",27-09-2020,02-10-2020,Designated hospital
+89,Udupi,622677,39,M,Contact under tracing,"Cough, Breathlessness","DM, HTN, IHD",26-09-2020,01-10-2020,Private hospital
+90,Tumakuru,623434,60,M,Contact under tracing,"Fever, Cough, Breathlessness",-,-,29-09-2020,Brought in dead
+91,Mysuru,626545,38,M,Contact under tracing,Breathlessness,"HTN, CVA, AKI",26-09-2020,01-10-2020,Private hospital
+92,Kalaburagi,628881,70,M,Contact under tracing,"Fever, Cough, Breathlessness",-,-,25-09-2020,Brought in dead
+93,Yadagiri,629858,70,M,Contact under tracing,-,-,30-09-2020,03-10-2020,Designated hospital
+94,Chikkamagaluru,630938,64,M,SARI,Breathlessness,"DM, HTN, COPD",29-09-2020,03-10-2020,Designated hospital
+95,Bidar,631204,80,F,SARI,"Fever, Breathlessness",-,30-09-2020,01-10-2020,Designated hospital
+96,Mysuru,631855,75,M,SARI,Breathlessness,HTN,29-09-2020,01-10-2020,Designated hospital
+97,Mysuru,638896,73,M,SARI,Breathlessness,"DM, HTN, IHD",01-10-2020,01-10-2020,Private hospital
+98,Udupi,639825,67,M,ILI,"Cough, Breathlessness","DM, HTN",20-08-2020,01-10-2020,Private hospital
+99,Udupi,640633,65,M,ILI,Fever,DM,01-10-2020,01-10-2020,Designated hospital
+100,Mandya,641192,80,M,SARI,"Fever, Cough, Breathlessness",DM,01-10-2020,01-10-2020,Designated hospital

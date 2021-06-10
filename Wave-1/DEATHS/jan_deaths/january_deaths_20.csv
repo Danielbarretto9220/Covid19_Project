@@ -1,0 +1,5 @@
+SI_No,District,State_P_No,Age,Sex,Descriptions,Symptoms,Co_Morbidities,DOA,DOD,Place_of_Death
+1,Bengaluru Urban,903359,85,F,SARI,Breathlessness,DM,11-11-2020,02-12-2020,Private hospital
+2,Bengaluru Urban,941174,82,F,SARI,Breathlessness,"DM, HTN",12-01-2021,19-01-2021,Private hospital
+3,Chitradurga,943338,75,M,SARI,"Fever, Breathlessness","DM, CKD",12-01-2021,18-01-2021,Designated hospital
+4,Mandya,944914,73,M,SARI,"Cough, Breathlessness","DM, HTN",15-01-2021,19-01-2021,Private hospital
